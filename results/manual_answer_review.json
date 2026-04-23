@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b01",
+    "source_file": "results/evaluation_results_baseline_subset.json",
+    "question": "What is the grading policy for ANT 101?",
+    "expected_course": "ANT 101",
+    "rag_quality": 3,
+    "baseline_quality": 2,
+    "comparison": "inconclusive",
+    "status": "needs_rerun",
+    "notes": "Retrieval is correct, but the saved RAG answer fell back to extractive text because Gemini returned a temporary 503 error. This question should be rerun after the retry logic update."
+  },
+  {
+    "id": "b02",
+    "source_file": "results/evaluation_results_baseline_subset.json",
+    "question": "What are the assessment components for CHEM 101?",
+    "expected_course": "CHEM 101",
+    "rag_quality": 7,
+    "baseline_quality": 2,
+    "comparison": "rag_better",
+    "status": "usable",
+    "notes": "The RAG answer correctly identifies examination and laboratory practicum from the syllabus. It is shorter than ideal, but still substantially better than the no-context baseline."
+  },
+  {
+    "id": "b03",
+    "source_file": "results/evaluation_results_baseline_subset.json",
+    "question": "Who teaches MATH 302 and what are the office hours?",
+    "expected_course": "MATH 302",
+    "rag_quality": 9,
+    "baseline_quality": 2,
+    "comparison": "rag_better",
+    "status": "strong",
+    "notes": "The RAG answer is direct, complete, and grounded in the syllabus. It is a good example for demonstrating the value of retrieval."
+  }
+]

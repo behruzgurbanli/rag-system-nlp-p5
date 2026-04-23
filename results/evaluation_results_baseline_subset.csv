@@ -1,0 +1,22 @@
+id,question,expected_course,course_filter,provider,baseline_provider,model,retrieved_courses,top1_course_correct,expected_course_in_top_k,rag_answer,baseline_answer
+b01,What is the grading policy for ANT 101?,ANT 101,ANT 101,gemini,gemini,gemini-2.5-flash,ANT 101 | ANT 101 | ANT 101,True,True,"The grading policy for ANT 101 is as follows:
+
+*   Attendance and Participation: 10%
+*   In-Class Exercises: 15%
+*   First Exam: 20%
+*   Second Exam: 20%
+*   Final Exam: 30%
+
+The total for all components is 100%. Grades and feedback will be provided within 10-12 days of submission.","I cannot tell you the exact grading policy for ANT 101 without seeing the specific course syllabus. Grading policies, including the breakdown of assignments, their weight, and any extra credit opportunities, are unique to each instructor and course offering."
+b02,What are the assessment components for CHEM 101?,CHEM 101,CHEM 101,gemini,gemini,gemini-2.5-flash,CHEM 101 | CHEM 101 | CHEM 101,True,True,"The assessment components for CHEM 101 include quizzes, problem sets, reports, homework, mid-term exams, and a final exam. There will be no dropping policy for any of these assessments, and scores will not be curved or normalized.","I cannot provide the exact assessment components for CHEM 101 without the specific course syllabus. Syllabi vary by instructor and institution.
+
+However, based on general knowledge of introductory chemistry courses, common assessment components often include:
+
+*   **Exams:** Midterm exams and a final exam are almost always present.
+*   **Quizzes:** Short quizzes, sometimes unannounced, to test understanding of recent material.
+*   **Homework/Problem Sets:** Assignments to practice problem-solving skills.
+*   **Lab Reports:** If CHEM 101 includes a lab component, lab reports are a significant part of the grade.
+*   **Participation:** Sometimes a small portion of the grade is allocated for in-class participation or clicker questions.
+
+To know the precise assessment components and their weighting for a particular CHEM 101 course, you would need to consult that course's syllabus."
+b03,Who teaches MATH 302 and what are the office hours?,MATH 302,MATH 302,gemini,gemini,gemini-2.5-flash,MATH 302,True,True,Eunghyun Lee teaches MATH 302. Office hours are Tuesday & Thursday from 13:00-14:00 or by appointment.,I cannot tell you who teaches MATH 302 or what the office hours are without the specific course syllabus. This information varies by semester and instructor.

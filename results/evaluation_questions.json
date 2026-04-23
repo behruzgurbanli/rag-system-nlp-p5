@@ -1,0 +1,72 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the grading policy for ANT 101?",
+    "expected_course": "ANT 101"
+  },
+  {
+    "id": "q02",
+    "question": "What are the assessment components for CHEM 101?",
+    "expected_course": "CHEM 101"
+  },
+  {
+    "id": "q03",
+    "question": "What textbook or learning resources are used in MATH 274?",
+    "expected_course": "MATH 274"
+  },
+  {
+    "id": "q04",
+    "question": "What is the attendance policy for WCS 150?",
+    "expected_course": "WCS 150"
+  },
+  {
+    "id": "q05",
+    "question": "Who is the instructor for PLS 140?",
+    "expected_course": "PLS 140"
+  },
+  {
+    "id": "q06",
+    "question": "What are the course learning outcomes for ROBT 204?",
+    "expected_course": "ROBT 204"
+  },
+  {
+    "id": "q07",
+    "question": "What prerequisites are listed for CSCI 332?",
+    "expected_course": "CSCI 332"
+  },
+  {
+    "id": "q08",
+    "question": "What assignments are required in TUR 100?",
+    "expected_course": "TUR 100"
+  },
+  {
+    "id": "q09",
+    "question": "What are the attendance expectations for CSCI 262?",
+    "expected_course": "CSCI 262"
+  },
+  {
+    "id": "q10",
+    "question": "What is the course description for ECON 101?",
+    "expected_course": "ECON 101"
+  },
+  {
+    "id": "q11",
+    "question": "What learning resources are listed for PHYS 161?",
+    "expected_course": "PHYS 161"
+  },
+  {
+    "id": "q12",
+    "question": "What are the grading components for WCS 230?",
+    "expected_course": "WCS 230"
+  },
+  {
+    "id": "q13",
+    "question": "Who teaches MATH 302 and what are the office hours?",
+    "expected_course": "MATH 302"
+  },
+  {
+    "id": "q14",
+    "question": "What is the academic integrity policy for SOC 101?",
+    "expected_course": "SOC 101"
+  }
+]

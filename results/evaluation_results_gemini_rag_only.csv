@@ -1,0 +1,78 @@
+id,question,expected_course,course_filter,provider,baseline_provider,model,retrieved_courses,top1_course_correct,expected_course_in_top_k,rag_answer,baseline_answer
+q01,What is the grading policy for ANT 101?,ANT 101,ANT 101,gemini,fallback,gemini-2.5-flash,ANT 101 | ANT 101 | ANT 101,True,True,"The grading policy for ANT 101 is as follows:
+
+*   **Attendance and Participation:** 10% (Everyone automatically receives 100% for this, but unexcused absences can negatively impact it).
+*   **In-Class Exercises—Anthropological Approaches:** 15%
+*   **First Exam:** 20% (Covers weeks 1-4)
+*   **Second Exam:** 20% (Covers weeks 5-9)
+*   **Final Exam:** 30% (Cumulative, with greater emphasis on weeks 10-14)
+
+The total for all components is 100%.
+
+The official NU Grading Scale is:
+*   A: 95%-100%
+*   A-: 90%-94.9%
+*   B+: 85%-89.9%
+*   B: 80%-84.9%
+*   B-: 75%-79.9%
+*   C+: 70%-74.9%
+*   C: 65%-69.9%
+*   C-: 60%-64.9%
+*   D+: 55%-59.9%
+*   D: 50%-54.9%
+*   F: 0%-49.9%
+
+Grades and feedback will be provided within 10-12 days of submission. Requests for additional assignments to bump up grades or to round up grades at the end of the semester will be denied.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q02,What are the assessment components for CHEM 101?,CHEM 101,CHEM 101,gemini,fallback,gemini-2.5-flash,CHEM 101 | CHEM 101 | CHEM 101,True,True,"The summative assessment methods for CHEM 101 include:
+* Examination
+* Laboratory Practicum",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q03,What textbook or learning resources are used in MATH 274?,MATH 274,MATH 274,gemini,fallback,gemini-2.5-flash,MATH 274 | MATH 274 | MATH 274,True,True,"The textbook used in MATH 274 is ""Elementary Differential Equations, 9th Edition"" by Boyce, W. E. and Di Prima, R. C., published by Wiley in 2012.
+
+The e-resources for the course are Web Work (http://webwork.nu.edu.kz/) and Moodle (https://moodle.nu.edu.kz/).",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q04,What is the attendance policy for WCS 150?,WCS 150,WCS 150,gemini,fallback,gemini-2.5-flash,WCS 150 | WCS 150 | WCS 150,True,True,"The attendance policy for WCS 150 is that students are expected to attend all classes. Students may miss the equivalent of one week of classes for any reason (with or without a spravka) without penalty. However, more than 3 absences are penalized one grade increment per absence. For example, if a student finishes the course with a B but has 4 absences, they will receive a B-.
+
+The following circumstances count as an absence:
+*   Three tardies (arriving up to 10 minutes after class begins)
+*   Missing more than 20 minutes of class
+*   Missing a scheduled Consultation with the instructor
+
+If students miss classes or assignments due to health-related issues, they should contact their instructor as soon as possible. Medical excuses (Spravkas) may be accepted to support excused absences if verified by the University Health Clinic and provided to the instructor within one day of returning to class. However, providing a spravka does not automatically ensure extensions or exemptions, as the final decision is made by the instructor based on class policies and specific circumstances.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q05,Who is the instructor for PLS 140?,PLS 140,PLS 140,gemini,fallback,gemini-2.5-flash,PLS 140 | PLS 140 | PLS 140,True,True,The instructor for PLS 140 is Prof. Caress Schenk.,Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q06,What are the course learning outcomes for ROBT 204?,ROBT 204,ROBT 204,gemini,fallback,gemini-2.5-flash,ROBT 204 | ROBT 204 | ROBT 204,True,True,"The course learning outcomes for ROBT 204 are:
+
+1.  Understand gain, phase shift, and Bode plots for electrical circuits and be able to apply Laplace Transform for the solution of electrical circuits.
+2.  Understand the operating principles of semiconductor diodes and be able to apply diodes in different applications.
+3.  Understand the operating principles of bipolar junction transistors and field effect transistors.
+4.  Be able to apply and design circuits with operational amplifiers and power amplifiers using transistors, as well as using professional software for circuit simulation and printed circuit board design.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q07,What prerequisites are listed for CSCI 332?,CSCI 332,CSCI 332,gemini,fallback,gemini-2.5-flash,CSCI 332 | CSCI 332 | CSCI 332,True,True,"The prerequisite for CSCI 332 is CSCI 231, with a grade of D or above.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q08,What assignments are required in TUR 100?,TUR 100,TUR 100,gemini,fallback,gemini-2.5-flash,TUR 100 | TUR 100 | TUR 100,True,True,"The required assignments for TUR 100 are:
+*   Weekly posts (15% of total grade)
+*   Midterm exam (20% of total grade)
+*   Final exam (20% of total grade)
+*   Weekly quizzes (20% of total grade)
+*   Final project/research paper (25% of total grade)",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q09,What are the attendance expectations for CSCI 262?,CSCI 262,CSCI 262,gemini,fallback,gemini-2.5-flash,CSCI 262 | CSCI 262 | CSCI 262,True,True,The syllabus context does not contain enough information about the attendance expectations for CSCI 262.,Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q10,What is the course description for ECON 101?,ECON 101,ECON 101,gemini,fallback,gemini-2.5-flash,ECON 101 | ECON 101 | ECON 101,True,True,"The objective of the course is to introduce students to a set of analytical tools, i.e., the core principles of microeconomics, needed to understand the functioning of market economies and also to apply those principles to everyday life and understand economic and social phenomena. At the end of the course, the student is expected to apply these tools in the analysis of daily economic problems and to be able to discuss critically economic policy issues. The course will study consumer and firm behavior, how different types of markets work, welfare implications of different market structures, trade, market failures, and public policies.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q11,What learning resources are listed for PHYS 161?,PHYS 161,PHYS 161,gemini,fallback,gemini-2.5-flash,PHYS 161 | PHYS 161 | PHYS 161,True,True,"For PHYS 161, the learning resources listed are:
+*   E-resources, including, but not limited to: databases, animations, simulations, professional blogs, websites, other e-reference materials (e.g., video, audio, digests)
+*   Laboratory physical resources
+*   Special software programs
+*   Journals (including e-journals)
+*   Textbooks
+
+More information about these resources can be found in the course manual.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q12,What are the grading components for WCS 230?,WCS 230,WCS 230,gemini,fallback,gemini-2.5-flash,WCS 230 | WCS 230 | WCS 230,True,True,The syllabus context does not contain enough information about the grading components for WCS 230.,Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q13,Who teaches MATH 302 and what are the office hours?,MATH 302,MATH 302,gemini,fallback,gemini-2.5-flash,MATH 302,True,True,Eunghyun Lee teaches MATH 302. Office hours are Tuesday & Thursday 13:00-14:00 or by appointment.,Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.
+q14,What is the academic integrity policy for SOC 101?,SOC 101,SOC 101,gemini,fallback,gemini-2.5-flash,SOC 101 | SOC 101 | SOC 101,True,True,"The academic integrity policy for SOC 101 is strict, with zero tolerance for any violation of academic integrity, including plagiarism or other forms of cheating, as outlined in the Nazarbayev University Student Code of Conduct.
+
+Plagiarism is defined as intentionally or carelessly presenting the work of another as one's own. This includes:
+1.  Directly copying sentences without proper citation (including cutting and pasting from electronic sources).
+2.  Changing words but copying sentence structure or closely paraphrasing paragraphs without acknowledging the source of ideas, or using visual/audio materials without acknowledgment.
+3.  Submitting false or altered information in academic exercises (e.g., making up or altering data, citing nonexistent articles).
+4.  Turning in all or part of an assignment done by another student.
+5.  Using a paper writing service, having another student write a paper, or using a foreign language translation and submitting it as original work.
+
+Students are encouraged to use NU Library workshops if unsure about proper citation practices.
+
+Regarding AI Use:
+All submitted work must be the student's own. Students are discouraged from using AI tools (including paraphrasing tools) unless directly instructed by the instructor. Submitting artifacts that do not authentically represent the student's knowledge and skills constitutes an academic integrity violation and will be treated as plagiarism. If Turnitin reports more than 30% AI usage, there will be an immediate penalty of half the mark. The final mark will assess both AI usage and content quality, with penalties applied according to the NU Student Code of Conduct, leading to grade changes.",Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.

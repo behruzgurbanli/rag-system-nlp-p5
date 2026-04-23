@@ -1,0 +1,434 @@
+[
+  {
+    "question": "What is the grading policy for ANT 101?",
+    "top_k": 3,
+    "course_filter": "ANT 101",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The official NU Grading Scale for ANT 101 is as follows:\n\n*   **A**: 95%-100% - Excellent, exceeds the highest standards in the assignment or course\n*   **A-**: 90%-94.9% - Excellent; meets the highest standards for the assignment or course\n*   **B+**: 85%-89.9% - Very good; meets high standards for the assignment or course\n*   **B**: 80%-84.9% - Good; meets most of the standards for the assignment or course\n*   **B-**: 75%-79.9% - More than adequate; shows some reasonable command of the material\n*   **C+**: 70%-74.9% - Acceptable; meets basic standards for the assignment or course\n*   **C**: 65%-69.9% - Acceptable; meets some of the basic standards for the assignment or course\n*   **C-**: 60%-64.9% - Acceptable, while falling short of meeting basic standards in several ways\n*   **D+**: 55%-59.9% - Minimally acceptable\n*   **D**: 50%-54.9% - Minimally acceptable; lowest passing\n*   **F**: 0%-49.9% - Did not satisfy the basic requirements of the course\n\n**Attendance Policy:**\nStudents are permitted three absences for the semester without penalty. Each additional absence beyond the first three will drop the grade by one half letter. For example, if a student achieves a B but has a fourth unexcused absence, their final grade will be B-. Official medical absence notes/spravka are an exception.\n\n**Grade Discussion:**\nGrades and attendance will be available on Moodle. Students can email the instructor to set up a meeting or stop by office hours to view exams, discuss overall grades, progress, or grades on specific assignments. The instructor will not discuss or change grades before, during, or after class meetings.\n\n**End of Semester Requests:**\nRequests for additional assignments to improve grades will be denied. Individual and collective requests to round up grades at the end of the semester will also be denied.",
+    "baseline_answer": "The syllabus context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "ANT_101_chunk_005",
+        "course_code": "ANT 101",
+        "source_file": "ANT 101_processed.txt",
+        "chunk_index": 4,
+        "total_chunks": 8,
+        "token_count": 400,
+        "text": "student to keeptrack of your own grades and attendance throughout the term (they will be available on Moodle, so there is no reason not to!). In the eventthat you wish to viewyour exams, discussyour overallgrade or progress in the course, or grades received on a specific assignment, pleaseemail me to set up a meeting or stop by office hours. I will not discuss or changegrades before, during, or afterclass meetings. ANT 101: Being Human: An Introduction to Four Field Anthropology Official NUGrading Scale: A 95-%100% Excellent, exceeds the highest standards in the assignment or course A- 90%-94.9% Excellent; meets the highest standards for the assignment or course B+ 85%-89.9% Very good; meetshigh standards for the assignment or course B 80%-84.9% Good; meetsmost of the standards for the assignment or course B- 75%-79.9% Morethan adequate; showssome reasonable command of the material C+ 70%-74.9% Acceptable; meetsbasic standards for the assignment or course C 65%-69.9% Acceptable; meetssome of the basicstandards for the assignment or course C- 60%-64.9% Acceptable, whilefalling short of meetingbasic standards in several ways D+ 55%-59.9% Minimally acceptable D 50%-54.9% Minimally acceptable; lowest passing F 0%-49.9% Did not satisfy the basic requirements of the course Attendance Policy You are permittedthree absences for the semester to accommodateyour needsbefore a penalty is applied, unless you have an officialmedical absence note/spravka. If you miss class, it is your responsibility to get missed materialsfrom fellow students. Each additional absencebeyond the firstthree dropsyourgrade by one half letter. Thismeansthat you may miss threeordinary classsessions with no excuses. However, if you miss a fourthclass without an excuse, you may haveachieved a B, but you will be assigned a finalgrade of B-. Consider if it is worthskipping class. It is your responsibility to attend regularly, reviewyour attendance/absences in Moodle and ensureyour scores are marked correctly. Lastly, if something is not goingwell for you or troubling you, and playing a role in impedingyour ability to be in class and do your work, then you need to tell me as soon as things are going badly. You do not need to tell me the details, and everything we discusswill be confidential. However, I cannothelp you succeed if you approach me longafter you haveperformed poorly or missedseveral classes to tell me thatthings are awry. The sooner we can addressyour difficulties, the sooner we can find a positive solution. Missed Exams You may request a makeupexam due to a medical absence; however, makeupexams",
+        "rank": 1,
+        "score": 0.4719
+      },
+      {
+        "chunk_id": "ANT_101_chunk_002",
+        "course_code": "ANT 101",
+        "source_file": "ANT 101_processed.txt",
+        "chunk_index": 1,
+        "total_chunks": 8,
+        "token_count": 400,
+        "text": "is curious to knowmore aboutwhat anthropology is and how it is differentfrom other social science disciplines. We examinehumans and their cultures, and how thosemanifest differently around the world. As this is a 100-level course, the concepts and materialswill be understandable to students from different academic backgrounds. Each week, you shouldprepare for class by reading the textbook and readingsprovided on Moodle (approximately 5-6), about 30-80 pages of readingeach week. Readingswill provide you with detailed background information and should be completedbefore class (excepting the first two weeks of class to get yourselves up to speed). Classeswill be instructor-led lectureswhere I, or a guest lecturer, provide you with essential informationabout that week's topic. I strongly encourage you to takenotes becausetheywill enhance and reinforceyour reading comprehension. Someclasseswill include ANT 101: Being Human: An Introduction to Four Field Anthropology discussion or in-class activities or guestlectures fromadditional Anthropology faculty members. Doing the readings and attending lectures are essential to succeeding on all forms of testing. Course Texts and Materials - Ember, Ember and Peregrine Anthropology, 2014. - Additional readingswill be shared to Moodle (You will be alerted to these via Moodle announcements as I post them, and I willalwaysgive you at least a week to read them. Thesewill be shorter articles, often more popular and informational-even promotional-than scholarly. Expectations of Students - Students are required to attendeachclass session, arrive on time, and participate in discussions and in-class activities. - All coursereadings should be completedbefore class (with the exception of the firstweek of classes). Assignments should be completed and submitted following the guidelines. Arriving on time to the exams is essential. - When participating in discussion, students should respecttheir peers, the instructor, and the course materials. Differentpoints of view and arguments are encouraged as long as we are polite and respectfultoward one another. Through disagreements we learn more. - Students should be prepared to demonstrate and applytheir knowledge of the coursematerial to in-class activities and on the exams. - Students are responsible for monitoringtheir progress in the course. Gradeswill be available on Moodle and should be consulted regularly. If you are struggling, contact me immediately. Communication, Office Hours, and Availability Each week, I willoffer a briefreview of important informationsuch as updates to the schedule; guidelines for, changes to, and/or generalfeedback about assignments; and/or otherinformation that is directlyrelevant to your success in this course. If you are struggling with anythingrelated to the course, or need clarification about something,",
+        "rank": 2,
+        "score": 0.2919
+      },
+      {
+        "chunk_id": "ANT_101_chunk_007",
+        "course_code": "ANT 101",
+        "source_file": "ANT 101_processed.txt",
+        "chunk_index": 6,
+        "total_chunks": 8,
+        "token_count": 400,
+        "text": "is not your own. Becausethis is a form of plagiarism, I willtreat it as an academic misconduct violation. If you are uncertainabout how or where it is appropriate to use these programs, avoidthem completely or speak to me about how to use them responsibly. Please review the Student Code of Conduct and Turnitin's Plagiarism Spectrum for clarification and additional information on what is considered plagiarism. You willneed to complete a quizwhere you demonstrate your understanding of thisinformation in order to continue in the course. Academic misconduct is not tolerated and willresult in a zero for the assignment. If it appears a student has committed one of these violations, I willact in accordancewith the university's policies on plagiarism. If you are everunsure of your citations, havequestions regarding academic misconduct, or are struggling in the course, pleasecontact me beforesubmitting questionable materials. Information for Reporting Sexual Harassment If you or yourfriends experienced sexualharassment during the semester, you can contact me or any of the additional people below: Advocacy and Conduct Office, DSS: student.support@nu.edu.kz - Daniyar Kossumbayev, daniyar.kossumbayev@nu.edu.kz - Assima Seitaliyeva, assima.seitaliyeva@nu.edu.kz School of Sciences and Humanities - Dinara Pisareva, dinara.pisareva@nu.edu.kz - Reed Coil, reed.coil@nu.edu.kz End of Semester Requests You are mostly responsible for your own success in the course. It is important to reviewyour attendance and gradesthroughout the semester. If you haveviolated my attendance policy, the penaltieslisted above will be implemented without exception. Requests for additional assignments to bump up gradeswill be denied. Individual and collective requests to round up grades at the end of the semester, for whatever reason, will be denied. It is unfair to your classmates who haveattended regularly, met deadlines, or did the work as expected. ANT 101: Being Human: An Introduction to Four Field Anthropology Wk Date Theme Readings (** = see Moodle for additional readings) 1 13-Jan Welcome to the Class! What is Anthropology? EEP, pp. 1-16 15-Jan 2 19-Jan How do we do Anthropology? EEP, pp. 17-43 21-Jan (COURSE DROP DEADLINE) Supplementary readingsabout UI bio-anthropologist and Princeton 22-Jan archaeological team in Greece 23-Jan (COURSE ADD DEADLINE) 3 27-Jan Core Concepts Revisited 29-Jan What Makes Humans Different? Genetics and EEP, pp. 44-84 Evolution 4 3-Feb Adaptation and Mechanisms of Change EEP, pp. 85-122 (Guest Lecture by Dr. Reed Coil) 5-Feb EEP, pp. 123-161 5 10-Feb 10 Feb. - FIRST EXAM Communication and Language EEP, p. 285-315 12-Feb (Guest Lecture by Dr. U. Kim) 6 17-Feb World Views",
+        "rank": 3,
+        "score": 0.2473
+      }
+    ],
+    "id": "q01",
+    "expected_course": "ANT 101",
+    "retrieved_courses": [
+      "ANT 101",
+      "ANT 101",
+      "ANT 101"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What are the assessment components for CHEM 101?",
+    "top_k": 3,
+    "course_filter": "CHEM 101",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The assessment components for CHEM 101 are:\n*   Quizzes (3x, each 4 points)\n*   Homeworks (5x, each 2 points)\n*   Mid-terms (3x, each 14 points)\n*   Final exam (36 points)",
+    "baseline_answer": "The syllabus context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "CHEM_101_chunk_001",
+        "course_code": "CHEM 101",
+        "source_file": "CHEM 101_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION A: DEFINITIVE 1. General course information 1.1 School: Science and Technology 1.6 Credits (ECTS): 6 1.2 Course Title: General Chemistry I 1.7 Course Code: CHEM 101 Pre-requisites: none Effective from: 1.3 Anti-requisite: none 1.8 Fall 2018 1.4 Co-requisites: N/A Programs: 1.5 (in which the course Chemistry is Core Elective 2. Course description (max.150 words) CHEM 101 is the first of a two-semester General Chemistry lecture sequence, designed for all science students interested in chemistry-related fields. The coursestudies fundamentallaws and theories of chemistry and beginswith consideration of chemical fundamentalssuch as atomic theory, mole, stoichiometry and types of chemical reactions. Modernview of atom is considered next followed by concepts in chemicalbonding startingwith localizedbond theory and its use for prediction of molecular and electronic geometry of simple compounds. The coursecovers basics of chemical kineticswith examplesfrom enzymekinetics to demonstrate a universal applicability of chemical laws. Thermochemistry, chemical thermodynamics and phaseequilibria are also considered to establish a foundation for higherlevel chemistry and biology courses. 3. Summative assessment methods (tick if applicable): 3.1 Examination 3.5 Presentation 3.2 Termpaper 3.6 Peer-assessment 3.3 Project 3.7 Essay 3.4 Laboratory Practicum 3.8 Other (specify) 4. Course aims 1. Introduce and studybasic chemical terminology, chemicallaws and phenomena and link them to atomic theory. 2. Analyzedifferent models and concepts of atomicstructure and chemicalbonding and discuss their strengths and limitations 3. Characterize gases and solids and explain and predicttheir physicochemical properties using theoretical models 4. Introduce mathematical modelsdescribing chemicalkinetics and establish a link between reaction mechanisms and ratelaw expressions 5. Studyfundamental laws of thermodynamics and considertheir mostvital applications in thermochemistry, chemical equilibria and thermodynamics of ideal gases 6. Qualitatively describephase equilibria and colligative properties of solutions. Establish a link between the behavior of non-ideal solutions and theirchemical structure 5. Course learning outcomes (CLOs) 5.1 1. Classifychemical compounds and elementsbased on type of chemicalbonding and predict their physico-chemical propertiessuch as melting and boiling points. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) 2. Perform stoichiometric calculations to balancechemical equations and determine yield of reaction. 3. Applyvalence shellelectron pairrepulsion theory (VSEPR) to predictmolecular and electronic geometry of simple compounds. 4. Deriveratelaws for simple and complex mechanisms of chemical reactionsbased on a set of elementary reactions. 5. Solvesimple problems in chemical kinetics, for examplecalculate concentrations of reactants and productsusing integratedforms of rate laws. 6. Understand concepts of entropy, enthalpy and freeenergy and applythem",
+        "rank": 1,
+        "score": 0.5695
+      },
+      {
+        "chunk_id": "CHEM_101_chunk_002",
+        "course_code": "CHEM 101",
+        "source_file": "CHEM 101_processed.txt",
+        "chunk_index": 1,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "predictmolecular and electronic geometry of simple compounds. 4. Deriveratelaws for simple and complex mechanisms of chemical reactionsbased on a set of elementary reactions. 5. Solvesimple problems in chemical kinetics, for examplecalculate concentrations of reactants and productsusing integratedforms of rate laws. 6. Understand concepts of entropy, enthalpy and freeenergy and applythem to determine spontaneity of chemical reactions and theirpoint of equilibrium. 7. Applytheoretical models to explainphase behavior and colligative properties of solutions. 5.2 CLO Program Learning Outcome(s) to Graduate Attribute(s) to which ref # which CLO is linked CLO is linked 1-2 Identify problems, interpret Possess an in-depth and effectively the concepts, and express sophisticated understanding of their problem solving, adequate reading, domain of study. and scientific abilities Be intellectually agile, curious, Grasp the nature and effectively creative and open-minded. communicate the principles of chemistry. 3-7 Grasp the nature and effectively Possess an in-depth and communicate the principles of sophisticated understanding of their chemistry. domain of study. Develop systems to criticizetheir own Be intellectually agile, curious, thinking through categorizing and creative and open-minded. estimating complex scientific issues Be fluent and nuanced Create graphwith the given data, to communicators across languages formulate the research results, to and cultures. generate report, and to summarize the results orally or in other effective forms. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION B: NON-DEFINITIVE Course Syllabus Details of teaching, learning and assessment 6. Detailed course information 6.1 Academic Year: 2025-2026 6.3 Schedule (class days, time): Section 1L: Tue, Thu 13:30 - 14:45 PM 6.2 Semester: Spring 2026 6.4 Lecture Location (building, room): 7E.222 7. Course leader and teaching staff Position Name Office Contact information Office hours Tue, Thu Course Instructor(s) Amro Khalil 7E.532 khalil.amro@nu.edu.kz 3-4 pm Teaching Assistant(s) Yerbolat Yerzhanov TBA yerbolat.yerzhanov@nu.edu.kz TBA 8. Course Outline Week Week of Topics and Assignments Course CLOs (tentative) Aims January 12 Lecture 1: Introduction to the course, fundamental laws Chapter 2 (Zumdahl) 1 Lecture 2: Electronegativity and types of compounds 2,3 1,2 Chapter 8 (Zumdahl) Homework 1 (Lecture 1-2), Moodle January 19 Lecture 3: Naming of compounds, stoichiometry Chapter 3 (Zumdahl) 2 1,2,3 1,2 Lecture 4: Types of chemical reactions and their balancing Chapter 3 (Zumdahl) January 26 Lecture 5: Quantummechanics and Bohr's atom Chapter 7 (Zumdahl) 3 Lecture 6: Wavefunctions and atomicorbitals 2,3,5 1,2,3 Chapter 7 (Zumdahl) Homework 2 (Lectures 2-5), Moodle February 2 Lecture 7: Polyelectronic atoms Chapter 7 (Zumdahl) 4 Lecture 8:",
+        "rank": 2,
+        "score": 0.5268
+      },
+      {
+        "chunk_id": "CHEM_101_chunk_004",
+        "course_code": "CHEM 101",
+        "source_file": "CHEM 101_processed.txt",
+        "chunk_index": 3,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "Onlinematerials and homeworks 10. Summative Assessments (tentative) # Activity Date Weighting (%) CLOs (tentative) Quizzes (3x, each 4 points) and See courseoutline All 22 % Homeworks (5x, each 2 points) Mid-terms (3x, each 14 points) See courseoutline 42 % All Final exam, 36 points TBA 36 % All 11. Grading Letter Grade Percent range Grade description (where applicable) A 95 - 100 Excellent, exceeds the highest standards in the assignment or course A- 90 - 94.9 Excellent, meets the highest standards for the assignments or course B+ 85 - 89.9 Very good, meetshigh standards for the assignment or course. B 80-84.9 Good; meetsmost of the standards for the assignment or course. B- 75 - 79.9 Morethan adequate; showssome reasonable command of the material. C+ 70 - 74.9 Acceptable, meetsbasic standards for the assignment or course. C 65 - 69.9 Acceptable, meetssome of the basicstandards for the assignment or course. C- 60 - 64.9 Acceptable, whilefailing short of meetingbasic standards in several ways. D+ 55 - 59.9 Minimally acceptable, failingsort of the meetingmanybasic standards. D 50 - 54.9 Minimally acceptable, lowest passing grade. F < 50 Failing, verypoor performance 12. Learning resources (use a full citation and where the texts/materials can be accessed) E-resources, including, but not limited to: databases, animations, TBD - On-line digitalresources (readings, videos, tutorials) will be simulations, professional utilized throughout the coursewhichwill be posted in Moodle. blogs, websites, otherereference materials (e. g. video, audio, digests) COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) E-textbooks 1. A. Burrows, J. Holman, A. Parsons, G. Pilling, G. Price. Chemistry3. 2nd edition. Oxford University Press: Great Clarendon Street, Oxford, United Kingdom. 2013. ISBN 978-019-969185-2. 2. S. S. Zumdahl, D. J. De Coste. Chemical Principles. 7th edition (International edition). Brooks/Cole Cengage Learning. 2013. ISBN 978-1-11-198900-2 Laboratory physical N/A resources Special softwareprograms N/A Journals (inc. e-journals) N/A Textbooks 1. A. Burrows, J. Holman, A. Parsons, G. Pilling, G. Price. Chemistry3. 2nd edition. Oxford University Press: Great Clarendon Street, Oxford, United Kingdom. 2013. ISBN 978-019-969185-2. 2. S. S. Zumdahl, D. J. De Coste. Chemical Principles. 7th edition (International edition). Brooks/Cole Cengage Learning. 2013. ISBN 978-1-11-198900-2 COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) 13. Course expectations  There will be NO DROPPINGpolicy for all quizzes, problem sets, reports, and exams. All scores will be calculatedbased on the actualpercentage and will NEITHER BE CURVED NOR NORMALIZED.  You onlyhave ONE WEEK",
+        "rank": 3,
+        "score": 0.451
+      }
+    ],
+    "id": "q02",
+    "expected_course": "CHEM 101",
+    "retrieved_courses": [
+      "CHEM 101",
+      "CHEM 101",
+      "CHEM 101"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What textbook or learning resources are used in MATH 274?",
+    "top_k": 3,
+    "course_filter": "MATH 274",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The textbook used in MATH 274 is \"Elementary Differential Equations, 9th Edition, Wiley, 2012\" by Boyce, W. E. and Di Prima, R. C.\n\nE-resources include Web Work (http://webwork.nu.edu.kz/) and Moodle (https://moodle.nu.edu.kz/).",
+    "baseline_answer": "I'm sorry, but I don't have access to real-time course catalogs or specific syllabi for universities. Therefore, I cannot tell you what textbook or learning resources are used in MATH 274 without more information. You would need to consult the official course syllabus or the university's course catalog for that specific information.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "MATH_274_chunk_001",
+        "course_code": "MATH 274",
+        "source_file": "MATH 274_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 4,
+        "token_count": 400,
+        "text": "SECTION A: DEFINITIVE 1. General course information 1.1 School: SSH 1.6 Credits (ECTS): 6 Course Title: Introduction to Differential Course Code: MATH 274 1.2 1.7 Equations 1.3 Pre-requisites: MATH 162 Effective from: 1.8 1.4 Co-requisites: 1.5 Programs: 2. Course description This is a one-semester courseintended for mathematics, engineering, and science students. It covers first order differential equations; mathematical models; linearsystems and matrices; higher-order linear differential equations; linearsystems of differential equations; and Laplacetransform methods. 3. Summative assessment methods: 3.1 Examinations ☒ 3.5 Presentation ☐ 3.2 Termpaper ☐ 3.6 Peer-assessment ☐ 3.3 Project ☐ 3.7 Essay ☐ 3.4 Laboratory Practicum ☐ 3.8 Other (specify) Webwork 4. Course Aims 1. Introduction of fundamental concepts in differential equations; 2. Applications of differential equations; 3. Solvingsomeclass of differential equations. 5. Course learning outcomes (CLOs) 5.1 By the end of the course, the student will be expected to be able to: 1. classify differential equations and learnbasic conceptrelated to ordinary differential equations; 2. solvelinear and somesimple nonlinear ordinary differential equationsusing different solution techniques; 3. Solvesystems of firstorder linearordinary differential equations; 4. describe the generalbehavior of the solutions to differential equations and systems of first orderlinear ordinary differential equations; 5. modelsimple real-world problemsusing ordinary differential equations; 6. employ Laplace transform for linearordinary initialvalue problems. 5.2 CLO Program Learning Outcome(s) to Graduate Attribute(s) to which ref # which CLO is linked CLO is linked 1 1 1, 2, 3 2 1 1 3 1 1 4 1 1 5 1 1 SECTION B: NON-DEFINITIVE 6. Detailed course information 6. Academic Year: 2025 - 2026 6.3 Schedule (class days, time): 1 Section 1L (TR 12:00 PM - 13:15 PM) Section 2L () 6. Semester: Spring 2026 6.4 Location (building, room): 7E.222 (1L) 6 1 1 7. Course leader and teaching staff Position Name Office Contact information Office Hrs. Course Instructors Dongming Wei 7 dongming.wei@nu.edu.kz TTh 10:00 -11:15 8. Course Outline (tentative) Session Date Topics Textbook Assessment CLO Sections s s Covered Week 1 Jan 12-16 Introduction Sec. HW-1 1,2,3, Some basic mathematical models; direction fields; classification of 1.1, 1.2, (1.1, 1.2, 4,5 differential equations. 1.3 1.3, 2.1, 2.2) First order differential equations Linear equations; Method of integrating factors; Separable equations. Sec. 2.1, 2.2 Week 2 Jan 19-23 Firstorder differential equations Sec. HW-2 2,3,4, Exact equations and integrating factors; Differences betweenlinear and 2.4, 2.6, (2.4, 2.6, 5 nonlinear equations; Existence and uniqueness theorems for 2.8 2.8) linear/nonlinear firstorder ODEs (statements,",
+        "rank": 1,
+        "score": 0.4079
+      },
+      {
+        "chunk_id": "MATH_274_chunk_004",
+        "course_code": "MATH 274",
+        "source_file": "MATH 274_processed.txt",
+        "chunk_index": 3,
+        "total_chunks": 4,
+        "token_count": 400,
+        "text": "10. Summative Assessments # Activity Date (Tentative) Weighting CLOs 1 Homework Weekly 15% 1 - 6 2 Midterm - 1 Febraury -to be 25% 1 - 5 announced in class 4 Midterm - 2 April 4 -to be announced 25% 2 - 6 in class 5 Final Final Examperiod 35% 1 - 6 11. Grading Grad % Range Grade Description A 95-100 Excellent; exceeds the highest standards. A- 90-94 Excellent; meets the highest standards. B+ 85-89 Very good; meetshigh standards. B 80-84 Very good; meetsmost of the standards. B- 75-79 Morethan adequate; showssome reasonable command of the material. C+ 70-74 Acceptable; meetsbasic standards. C 65-69 Acceptable; meetssome of the basic standards. C- 60-64 Acceptable, but fallingshort of basic standards. D+ 55-59 Minimally acceptable; fallingshort of meetingmanybasic standards. D 50-54 Minimally acceptable; the lowest passing grade. F 0-49 Failing; verypoor performance. 12. Learning resources E-resources Web Work: http://webwork. nu. edu. kz/ Moodle: https://moodle. nu. edu. kz/ Textbooks Boyce, W. E. and Di Prima, R. C., Elementary Differential Equations, 9th Edition, Wiley, 2012. 13. Course expectations Students will be expected to: ● read all coursematerial posted by theirinstructor in the course's Moodle page; ● participate actively and positively in the classbeyond the questions asked; ● pay attention in every lecture, take notes, ask for clarification, and to engage in discussions; ● attend all the classesfrom the beginning to the end of the termaccording to the Undergraduate Attendance Policy of NU; ● complete all examswithout communicating withother students; ● follow instructionsfrom course instructor regarding proctoring of exams 14. Academic Integrity Statement Students have to follow the University's Academic Integrity Policies, e. g., the Student Code of Conduct. Non-integer behaviorsuch as cheating, forgery, plagiarism, or copying of other student's work, will have the consequences laid out in the Disciplinary Procedures (approved by the Academic Council on 05 February 2014). These consequences include but are not limited to a 0 grade for the test, exam, or the course and a hearing before the Disciplinary Council to determinefurther sanctions. There are NO MAKE-UPS for weekly homework. All missedhomework and unexcusedmissed exams will be awarded \"zero\" marks. If you miss 1 midterm and have a validexcuse approved by the university, your finalexam gradewill replaceyour missingmidterm grade. If you missbothmidterms and/or the final exam and have a validexcuse approved by the university for all of them, then you musttake the final exam and it willreplace all yourmissing grades.",
+        "rank": 2,
+        "score": 0.3743
+      },
+      {
+        "chunk_id": "MATH_274_chunk_003",
+        "course_code": "MATH 274",
+        "source_file": "MATH 274_processed.txt",
+        "chunk_index": 2,
+        "total_chunks": 4,
+        "token_count": 400,
+        "text": "5 eigenvalues; Repeated eigenvalues 7.8 Week 14 April Systems of firstorder linearequations Sec. HW-13 2,3,4, 20-24 Fundamental matrices; Nonhomogeneous linear systems. 7.7,7.9 (7.7,7.9) 5 9. Learning and Teaching Methods 1 Presentation and discussion of differential equationrelated topics. Coursematerial will be posted on Moodle. 2 Homework assignments will be conducted on the Webworkplatform online. 10. Summative Assessments # Activity Date (Tentative) Weighting CLOs 1 Homework Weekly 15% 1 - 6 2 Midterm - 1 Febraury -to be 25% 1 - 5 announced in class 4 Midterm - 2 April 4 -to be announced 25% 2 - 6 in class 5 Final Final Examperiod 35% 1 - 6 11. Grading Grad % Range Grade Description A 95-100 Excellent; exceeds the highest standards. A- 90-94 Excellent; meets the highest standards. B+ 85-89 Very good; meetshigh standards. B 80-84 Very good; meetsmost of the standards. B- 75-79 Morethan adequate; showssome reasonable command of the material. C+ 70-74 Acceptable; meetsbasic standards. C 65-69 Acceptable; meetssome of the basic standards. C- 60-64 Acceptable, but fallingshort of basic standards. D+ 55-59 Minimally acceptable; fallingshort of meetingmanybasic standards. D 50-54 Minimally acceptable; the lowest passing grade. F 0-49 Failing; verypoor performance. 12. Learning resources E-resources Web Work: http://webwork. nu. edu. kz/ Moodle: https://moodle. nu. edu. kz/ Textbooks Boyce, W. E. and Di Prima, R. C., Elementary Differential Equations, 9th Edition, Wiley, 2012. 13. Course expectations Students will be expected to: ● read all coursematerial posted by theirinstructor in the course's Moodle page; ● participate actively and positively in the classbeyond the questions asked; ● pay attention in every lecture, take notes, ask for clarification, and to engage in discussions; ● attend all the classesfrom the beginning to the end of the termaccording to the Undergraduate Attendance Policy of NU; ● complete all examswithout communicating withother students; ● follow instructionsfrom course instructor regarding proctoring of exams 14. Academic Integrity Statement Students have to follow the University's Academic Integrity Policies, e. g., the Student Code of Conduct. Non-integer behaviorsuch as cheating, forgery, plagiarism, or copying of other student's work, will have the consequences laid out in the Disciplinary Procedures (approved by the Academic Council on 05 February 2014). These consequences include but are not limited to a 0 grade for the test, exam, or the course and a hearing before the Disciplinary Council to determinefurther sanctions. There are NO MAKE-UPS for weekly homework. All missedhomework and unexcusedmissed exams will be",
+        "rank": 3,
+        "score": 0.3312
+      }
+    ],
+    "id": "q03",
+    "expected_course": "MATH 274",
+    "retrieved_courses": [
+      "MATH 274",
+      "MATH 274",
+      "MATH 274"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What is the attendance policy for WCS 150?",
+    "top_k": 3,
+    "course_filter": "WCS 150",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "API key not configured, so this is an extractive fallback from the retrieved syllabus context: WCS 150: Rhetoric & Composition Syllabus Spring 2026 Class Details Section: 15 Instructor Details Instructor: Dr Olga Campbell-Thomson E-mail: olga.campbellthomson@nu.edu.kz Weekly Class Schedule: MWF 13:00-13:50 Office: Office: Block 4, Room 405Office Hours: Room: 6.410 WF 12:00-12:50 & Tuesday 14:30-17:30 IMPORTANT DATES First day of class: January 12 (M) Course drop deadline: January 21 (W) Course withdrawal Period: January 21 (W) - March 11 (W) Spring break: March 2-9 (M - M) International Women's Day March 8 (Su) extended to March 9 (M) Nauryz Holiday March 21-23 (Sa-M) extended to March 24-25 (Tu-W) Last day of classes: April 24 (F) COURSE INFORMATION This course is a 3 credit (6 ECTS) course, which is equivalent to an expectedworkload of 150-180 hours, includingclass time. Thismeans you shouldplan for an average of 8-10 hours/week of work outside the classroomover this 15-week ter\n\n[Gemini generation failed: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}]",
+    "baseline_answer": "The syllabus context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "WCS_150_chunk_001",
+        "course_code": "WCS 150",
+        "source_file": "WCS150_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 9,
+        "token_count": 400,
+        "text": "WCS 150: Rhetoric & Composition Syllabus Spring 2026 Class Details Section: 15 Instructor Details Instructor: Dr Olga Campbell-Thomson E-mail: olga.campbellthomson@nu.edu.kz Weekly Class Schedule: MWF 13:00-13:50 Office: Office: Block 4, Room 405Office Hours: Room: 6.410 WF 12:00-12:50 & Tuesday 14:30-17:30 IMPORTANT DATES First day of class: January 12 (M) Course drop deadline: January 21 (W) Course withdrawal Period: January 21 (W) - March 11 (W) Spring break: March 2-9 (M - M) International Women's Day March 8 (Su) extended to March 9 (M) Nauryz Holiday March 21-23 (Sa-M) extended to March 24-25 (Tu-W) Last day of classes: April 24 (F) COURSE INFORMATION This course is a 3 credit (6 ECTS) course, which is equivalent to an expectedworkload of 150-180 hours, includingclass time. Thismeans you shouldplan for an average of 8-10 hours/week of work outside the classroomover this 15-week term. This is a requiredcourse for first-year students and a prerequisite for all writing and communication courses that meet the writing and communication requirement. A finalgrade of C- or above is necessary to progress to a 200-level corewriting or communications course. If you have any questions regarding the course in general, or regarding specific information provided in this syllabus, pleasecontact the instructor directly. Course Description This course familiarizes students with the skills and processinvolved in writing an argumentative essay supported by original research. It emphasizes a rhetorical approach to communication, and focuses on the development and structuring of arguments, research practices, and critical thinking skills through writing, reading, and discussion. ICT Requirements If circumstances require a shift to remote delivery, all studentsmust haveaccess to the minimum information and communications technology (ICT) required to activelytakepart in the class and successfully complete all course requirements. This includes: ● A laptopcomputer or otherdevicesuch as a tablet or cellphone withvideo and audio capabilities ● Regular and sufficientaccess to the internet (with adequate bandwidth) ● Googledocs or Microsoft Office to write essays, etc. WCS 150 Rhetoric & Composition Spring 2026 Syllabus Page 1 of 8 In addition to the tangible materials for the course, studentsmust be self-motivated, timely, disciplined, and self-driven to fulfill the tasks on time. Regardless of coursedelivery modes, students must take the initiative to maintaincontact with the courseprofessor and peer-groups on a regular basis. Course Theme: Generative Artificial Intelligence (AI) Course Materials ● Core text: Graff, Gerald, and Cathy Birkenstein. They Say/I Say: The Movesthat Matter in Academic Writing. Gerald Graff, 3rd ed., W. W.",
+        "rank": 1,
+        "score": 0.4255
+      },
+      {
+        "chunk_id": "WCS_150_chunk_004",
+        "course_code": "WCS 150",
+        "source_file": "WCS150_processed.txt",
+        "chunk_index": 3,
+        "total_chunks": 9,
+        "token_count": 400,
+        "text": "Center for their 150 course assignments; rather, you shouldmeet withyour instructorduring officehours or by appointment. You are, however, welcome to visit the Writing Center for assignments and writingprojects not related to WCS 150. Clickhere for moreinformation on Writing Center tutorials and resources. Submission of Assignments Standard Format: ● All assignmentsmust includeyour name, title of the assignment, and date on a titlepage in APA styleformatting at the beginning of the assignment (NOTE: checkassignment and/or instructor specifications). ● Assignmentsmust be typed, using a standard 12-point font ● Pagemargins should be set to one inch / 2.54 cm on all sides ● Assignmentsmore than one page in lengthmust includepage numbers. ● Assignmentsmust be submitted in MSWord (. doc or . docx) format. Filessubmitted in . pdf, . pages, or otherformatswill not be accepted. Whenresubmitted in a required format, the draft willlosepoints for formatting. Assignments written for otherclasseswill not be accepted. Turnitin: All gradedwriting assignments completedoutside class are submittedthrough Turnitin. Turnitin is designed to detect similarities in language and AIgenerated textthat may indicate plagiarism. Please do not use translation or paraphrasing softwaredesigned to fool Turnitin. The resulting language is often so awkward or incorrectthat it is easily detectable. Use of suchtools constitutes academic misconduct. Make sure you upload the correctfinal draft of your work. The draftsubmitted to Turnitin is the draft that will be graded. Late Submissions / Deadlines: ● Graded assignments will lose 10% of the finalgrade per each day late to a maximum of three days (i. e., a deduction of 30% of the final grade). Assignmentsmore thanthree days late will not be accepted and will receive a score of zero. NOTE: For Essay 1 and Essay 2, this may result in a finalgrade of F for the courseunless previous arrangementshave been made with the instructor. ● Daily or weeklyassessment assignments (formative assignments, non-graded tasks, forum posts, etc.) morethan threedays latewill not be accepted. ● Perusall assignmentshave set deadlines and are not counted if submittedafter these set deadlines Attendance Policy WCS 150 Rhetoric & Composition Spring 2026 Syllabus Page 4 of 8 The university's attendancepolicy is thatstudents attend all their classes. We recognizethat students may need to missclass at somepoint in the term so we have a standardpolicy thatstudents may miss the equivalent of one week of classes for any reason (with or without a spravka), without penalty. We recommend you savethese absences for when you reallyneedthem (illness, etc.). Although 1 to",
+        "rank": 2,
+        "score": 0.3398
+      },
+      {
+        "chunk_id": "WCS_150_chunk_005",
+        "course_code": "WCS 150",
+        "source_file": "WCS150_processed.txt",
+        "chunk_index": 4,
+        "total_chunks": 9,
+        "token_count": 400,
+        "text": "recognizethat students may need to missclass at somepoint in the term so we have a standardpolicy thatstudents may miss the equivalent of one week of classes for any reason (with or without a spravka), without penalty. We recommend you savethese absences for when you reallyneedthem (illness, etc.). Although 1 to 3 absences are not penalized, use thisallowance only as necessary. Morethan 3 absences are penalized one gradeincrement per absence. For example, if you finish the course with a B but have 4 absences, you will receive a B-. A grade of B with 5 absenceswill result in a C+, and so forth. The following circumstances willcount as an absence: ● Threetardies (arriving up to 10 minutesafter class begins) ● Missingmorethan 20 minutes of class ● Missing a scheduled Consultationwith your instructor Missing Classes and/or Assignments Due to Health-Related Issues If you have missed, or anticipate missing, classes or assignments due to medical emergencies or health-related issues, contactyour instructor as soon as possible to informthem of the situation. Medical excuses (Spravkas) may be accepted to supportexcused absences in this class. Spravkas must be verified by the University Health Clinic. Students are responsible for providing spravkas directly to the instructorwithin one day of theirreturn to class. Providing a spravkadoes not automatically ensureextensions on assignment deadlines or exemptionsfrom coursework. The final decision on spravkaswill be made by the instructorbased on classpolicies (above) and the specific circumstances of your case. Class Participation Participation is essential to doingwell in this course and is worth 15% of the overallfinal grade. Engagement is your responsibility. Studentsmust be thoroughly prepared to analyze and engage with each activity. Activities may includewriting taskssuch as the following: ● drafts of graded assignments ● quizzes and/or supplementary worksheets ● groupdiscussions and workshops in whichstudents will have to contribute and respond to their peers in a timely manner ● reading annotations and/or responses ● in-class writing activities related to lectures, the course theme, and skill development ● reading annotations and responses These activitieswill be non-graded but counted for completion only. A critical component of the course is spirited, informed discussion and debate. Thiswillhappen in class or in the Perusall posts. Questions and commentsfrom students in class are always welcome but the classtime is not for discussion of personalissues or voicing grievances. Consider the following whencommenting in class: ● Are the commentsmade in classrelevant to the discussion? Are theylinked to the comments of others?",
+        "rank": 3,
+        "score": 0.3389
+      }
+    ],
+    "id": "q04",
+    "expected_course": "WCS 150",
+    "retrieved_courses": [
+      "WCS 150",
+      "WCS 150",
+      "WCS 150"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "Who is the instructor for PLS 140?",
+    "top_k": 3,
+    "course_filter": "PLS 140",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The instructor for PLS 140 is Prof. Caress Schenk.",
+    "baseline_answer": "The syllabus context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "PLS_140_chunk_001",
+        "course_code": "PLS 140",
+        "source_file": "PLS 140_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 16,
+        "token_count": 400,
+        "text": "Introduction to Comparative Politics PLS 140 Spring 2026 Tuesday/Thursday, 15:00-16:15 Green Hall Prof. Caress Schenk Office: 7e.132, Email: cschenk@nu.edu.kz Office Hours: by appointment Graduate Teaching Assistants Alexandr Motin, aleksandr.motin@nu.edu.kz Yize Huang, yize.huang@nu.edu.kz Office hours: Tuesdays 13:30-14:50, 7.527 ***If you are looking for an extraplace in this course, pleaseattend the firstweek of classes. It is likely that you will be able to get a place in the course if you keepchecking the registration becausemany students add and dropcourses activelyuntil the end of the add/drop period. I willapprove up to 5 extraplaceforms only at the end of the firstweek of class and only for thosestudents who haveemailed me to be put on my list, attended each class, and checked in at the end of eachsession for attendance purposes.*** If you have any questions or concernsabout this course or other PSIR courses, pleasecontact the PSIR Undergraduate Director Prof. Jessica Neafie (jessica.neafie@nu.edu.kz) or PSIRDepartment Chair Helene Thibault (helene.thibault@nu.edu.kz). This courseintroduces students to the field of Comparative Politics. As an introductory course, it is aimed at first yearstudents who are interested in declaring a PSIR major. As such, we will focus on acquainting students with the expectations of PSIRcourses and the PSIR major/discipline. Thesepriorities include developing critical thinking, carefulattention to detailthrough note taking, and writing skills. Students in their second, third, and fourthyears fromoutside socialscience disciplineswill need to paycareful attention to the conventions and expectations of politicalscience courses, includingnote taking and academic writing, in order to do well in the course The courseaims to providestudents withfactual and conceptual knowledge about the political systems, processes and development of domesticpolitics usingexamples fromcountries such as the US, UK, France, Germany, Russia, Iran, China and others. We will introduce students to important themes of Comparative Politicssuch as national identity, institutional and electoral design, political economy, political attitudes and ideologies, regime type, and civil society, etc. whichwill be used to analyze modern political strategies and pitfalls. Comparative Politics is a sub-field of Political Science and in particularsits in contrast to International Relations, whichlooks at the relationships and dynamics on the globalstage and between countries. CPfocusesinstead on domestic or internal political dynamicsrather thanforeign relations. On successful completion of the course, students will be able to: 1. Understanding strengths and weaknesses of methods in comparative politics. 2. Learningabout political outcomes frequently studied in comparative politics: democracy/non-democracy, occurrence/absence of political violence and repression, the role of political institutions, and pitfalls of democratic backsliding.",
+        "rank": 1,
+        "score": 0.3238
+      },
+      {
+        "chunk_id": "PLS_140_chunk_005",
+        "course_code": "PLS 140",
+        "source_file": "PLS 140_processed.txt",
+        "chunk_index": 4,
+        "total_chunks": 16,
+        "token_count": 400,
+        "text": "the \"questions about assignments\" channel. I may alsopose questions to the class, which you can respond to on Discord. Participating during in classdiscussions is not required, but can help to boost your participation score if you misspoints in otherareas (e. g. attendance, currentevents discussions, etc.). A maximum of 2 totalpoints towards the participation scorewill be given for participating during in class discussions, eachpost receiving a possible .25 points. In classdiscussion points will not boostyouroverall participation gradeabove 15% of the overall grade. ● Currentevents presentation reflections. All students will participate in currentevents discussions on the weeks we have presentations. Students will be dividedinto 10 groups for discussions. You should post one response of around 50 words for EACHpresentation (there may be as many as three presentations on a given day). Shorteranswers will not be accepted. On the weekswherethere are current events discussions, yourpostsmust be completed by Fridays at 23:59. Please do not repeat what otherstudents havealready posted, and makesure yourposts are interactingwith what other students have written. Bonuspointswill be given for poststhat are especially insightful, engage critically with the material, and are interactivewith the discussion moderators and other students. Posts madepast the deadlinewithin fiveminutes will receivehalf credit. Postsmade morethan five minutes past the deadlinewill receive no credit. ● If we suspect you've used AI to generatecontent for your assignments, you will receive 0% on the assignment and we willreport the circumstances to the SSHdisciplinary committee. Repeated offenses will be handedover to the disciplinary committee for a decision, with the potential for a 0 in the course. ● No make-ups, re-dos, or re-grades will be available for discussion posts. If you receive a grade you are not happywith you may discuss strategies for improvementwith your TA, seekadvicefrom other students, and work to improveyour score. Rubrics for discussions In class discussions. Eachpost may receive a maximum of .25 pointstowards a maximum of 2 make-up points within the class participation score. Comments are clear and understandable. They are relevant to the discussion and explain .25 points the point of viewgiving relevantlogic and evidence. They are respectful of other views while presenting relevant counter-arguments. Comments are not well organized. Theyveerfrom the discussion at hand. Weaklogic or .10 points evidence used. Comments are incoherent, irrelevant, repeatwhat otherstudents havealready said, or are 0 points disrespectful. Current events discussions. There will be 10 lecture discussions (each week, starting in week three, except for exam weeks). Post one response",
+        "rank": 2,
+        "score": 0.2598
+      },
+      {
+        "chunk_id": "PLS_140_chunk_012",
+        "course_code": "PLS 140",
+        "source_file": "PLS 140_processed.txt",
+        "chunk_index": 11,
+        "total_chunks": 16,
+        "token_count": 400,
+        "text": "pleasepost your question in Discord in the \"questions about assignments\" channel. Please do not emailyour TA or ask the professorunless you havealready posted to Discord and stillneed clarification. This is very important so thateveryone has access to any necessary clarifications in writing (on Discord or in the updated syllabus) ● Yourfirstpoint of contact for this course is your TA. All issuesshould be addressed to them, with the exception of situations specified in the syllabus (i. e. disability accommodations, current event topics proposals). If theyneed to contact me about an issue, the requestshould comefrom them. I unfortunately will not be able to address any emailrequests thatcome fromstudents directly. If you feel you are not beinggiven the attention you needfrom the TA, only in thesecasesshould you contact me directly, demonstrating the messages you have had with the TA. ● When you email me or the TAs, please use properemail etiquette, especially for initial contact. Do not startyouremail \"Hey Dr. Schenk,\" or \"Hey\" or \"Professor\" or \"Mrs. Schenk\" or without a salutation. Instead, \"Dear Dr. Schenk,\" or \"Dear Professor Schenk,\" should be used for initial contact. Never, evercall me Ms./Mrs. Schenkbecause I hate it. I also don't like to be addressed by my fullname (i. e. Dear Caress Schenk). I'm not opposed to students addressing me by my first name. ● Lateassignments turned in morethan 5 minuteslate on the due datewill receivehalf credit. Assignments turned in past the due datewill receive no credit. ● There will be no make-ups for assignments, including presentations. ● We willendeavor to gradeyour assignments in a reasonableamount of time. Generally you can expect thatyour assignments should be graded two weeksafter submission. ● Plagiarismwill not be tolerated including self-plagiarism (submitting the sameassignment to multiple courses/professors). Any plagiarism will result in an automaticzero for the assignment and will be reported to the dean to be placed on yourpermanent record. Violationscould result in an F for the course. ● Cheatingwill not be tolerated. Any behavior that evenhints of cheating will be reported to the school disciplinary committee and willresult in an automatic F for the assignment and/or course. ● Do not use AI to generatecontent for your presentations, discussion posts, attendance records, or any other assignments. While AI is practically unavoidablewhen searching for information these days, you need to takeyour contentfrom directsources (news sites/articles, analytical articles, etc.) rather thanaggregated AIinformation generators. o If we suspect you've used AI to generatecontent for",
+        "rank": 3,
+        "score": 0.2408
+      }
+    ],
+    "id": "q05",
+    "expected_course": "PLS 140",
+    "retrieved_courses": [
+      "PLS 140",
+      "PLS 140",
+      "PLS 140"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What are the course learning outcomes for ROBT 204?",
+    "top_k": 3,
+    "course_filter": "ROBT 204",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The course learning outcomes for ROBT 204 are:\n1) Understand gain, phase shift, and Bode plots for electrical circuits and be able to apply Laplace Transform for the solution of electrical circuits.\n2) Understand the operating principles of semiconductor diodes and be able to apply diodes in different applications.\n3) Understand the operating principles of bipolar junction transistors and field effect transistors.\n4) Be able to apply and design circuits with operational amplifiers and power amplifiers using transistors, as well as using professional software for circuit simulation and printed circuit board design.",
+    "baseline_answer": "The syllabus context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "ROBT_204_chunk_001",
+        "course_code": "ROBT 204",
+        "source_file": "ROBT 204_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION A: DEFINITIVE Items in this section may be reviewed and developed within Schools as part of the Annual Program Monitoring Process and in linewith the Guidelines to Modifications to Programs and Courses. 1. General course information 1.1 School: SEDS 1.6 Credits (ECTS): 8 Course Title: Electrical and Electronics Circuits IICourse Code: ROBT204 1.2 1.7 With Laboratory Pre-requisites: Effective from: 2013 1.3 ROBT 203 Electrical and Electronic Circuits I 1.8 with Laboratory 1.4 Co-requisites: Bachelor of Science (B. Sc.) in Robotics and Mechatronics ☒ Core ☐ Elective 1.5 Programs: (in which the course is offered) 2. Course description (max.150 words) ROBT 204 is the secondcourse in the Electrical Engineeringarea of the Robotics and Mechatronics Program curriculum. The 4 creditcourse consists of three 50 minutelectures and one three hour lab/recitation session. Topicsinclude frequency response, Laplace Transform, diodes and its applications, bipolarjunction transistors, fieldeffect transistors, operational amplifiers and its applications. Professional softwarewill be usedextensively to simulatecircuits and also to implement printedcircuit board schematics. 3. Summative assessment methods (tick if applicable): 3.1 Examination ☒ 3.5 Presentation ☐ 3.2 Termpaper ☐ 3.6 Peer-assessment ☐ 3.3 Project ☒ 3.7 Essay ☐ 3.4 Laboratory Practicum ☒ 3.8 Other (specify) ____________ 4. Course aims 1) Exposestudents to the fundamental concepts in electrical and electronics circuits, i. e., frequency domain analysis and transient responses of electrical circuits, operating principle of diodes, bipolar junction transistors, fieldeffect transistors, and operational amplifiers. 2) Train the students to how to designpower amplifier and printedcircuit board design 3) Prepare the students to accessmore advancedcourses in electrical and electronic related course. 5. Course learning outcomes (CLOs) 5.1 By the end of the course the student will be expected to be able to: 1) Understand gain, phaseshift and Bodeplots for electrical circuits and be able to apply Laplace Transform for the solution of electrical circuits. 2) Understand the operating principles of semiconductor diodes and be able to apply diodes in different applications. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) 3) Understand the operating principles of bipolarjunction transistors and field effect transistors. 4) Be able to apply and designcircuits withoperational amplifiers and power amplifiers using transistors as well as using professional software for circuit simulation and printed circuit board design. 5.2 CLO Program Learning Outcome(s) to Graduate Attribute(s) to which ref # which CLO is linked CLO is linked 1, 2, 3 Identify,",
+        "rank": 1,
+        "score": 0.5317
+      },
+      {
+        "chunk_id": "ROBT_204_chunk_002",
+        "course_code": "ROBT 204",
+        "source_file": "ROBT 204_processed.txt",
+        "chunk_index": 1,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "Be able to apply and designcircuits withoperational amplifiers and power amplifiers using transistors as well as using professional software for circuit simulation and printed circuit board design. 5.2 CLO Program Learning Outcome(s) to Graduate Attribute(s) to which ref # which CLO is linked CLO is linked 1, 2, 3 Identify, formulate, and solve Posses an in-depth and engineering problemsrelated to sophisticated understanding of their robotics and mechatronics disciplines domain of study. by applying principles of engineering, science and mathematics. 4 Designreliable robotic/mechatronic Be intellectually agile, curious, systems that meet desiredneeds creative and open-minded. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION B: NON-DEFINITIVE Course Syllabus Template Details of teaching, learning and assessment Items in this Section should be considered annually (or eachtime a course is delivered) and amended as appropriate, in conjunction with the Annual Program Monitoring Process. The template can be adapted by Schools to meet the necessary accreditation requirements. 6. Detailed course information 6.1 Academic Year: 2023-2024 6.3 Schedule (class days, time): Mon, Wed, Fri 11:00-11:50 Schedule (laboratories): Mon 12:00-15:00 6.2 Semester: Spring 6.4 Location (building, room): 7246 (Lectures), 7.327(Laboratories) 7. Course leader and teaching staff Position Name Office Contact information Office hours/or # by appointment Course Leader Dr. Ton Duc Do 7e324 Professor of Robotics Mon 16:00 & Mechatronics -17:00, Wed School of Engineering 16:00-17:00 and Digital Sciences Course Instructor Dr. Ton Duc Do 7e324 Professor of Robotics & Mechatronics School of Engineering and Digital Sciences Tel: +7 7172 705905 Teaching Assistants N/A 8. Course Outline Session Date Topics and Assignments Course Aims CLOs (tentative) (ref. # only, see item 4) 1 1 Frequency Response: Gain, Phase Shift 1 1 Frequency Response: Bode Plots COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) 1 1 Frequency Response: Bode Plots 1 1 Frequency Response: Resonant Circuits 1 1 Laplace Transform 1 1 Laplace Transform 1 1 Circuit Analysis Using Laplace Transform 1 1 Circuit Analysis Using Laplace Transform 1 1 Circuit Analysis Using Laplace Transform 1 1 Circuit Analysis Using Laplace Transform 1 1 Circuit Analysis Using Laplace Transform 1,2 2 Semiconductor Diodes 1,2 2 Semiconductor Diodes 1,2 2 Diode Applications 1,2 2 Diode Applications 1,2 2 Diode Applications 1,2 2 Diode Applications 1,2,3 3 Bipolar Junction Transistor (BJT) 1,2,3 3 Bipolar Junction Transistor (BJT) 1,2 3 BJT DC Biasing 1,2 3 BJT DC Biasing 1,2 3 BJT DC Biasing 1,2 3 BJT DC",
+        "rank": 2,
+        "score": 0.4621
+      },
+      {
+        "chunk_id": "ROBT_204_chunk_007",
+        "course_code": "ROBT 204",
+        "source_file": "ROBT 204_processed.txt",
+        "chunk_index": 6,
+        "total_chunks": 7,
+        "token_count": 302,
+        "text": "assignments in thisclass are exercises designed to help you absorb and comprehend the covered topics. Doing the work is muchmore importantthan getting the right answer. The severity of sanctionsimposed for an academic integrity violationwill depend on the transgression and ascertained intent of the student. Penalties for a firstoffense may rangefromfailing the assignment to failing the course and referral to an academicreview board. You can findmore informationabout the consequences of academic integrity violationsfrom Student Affairs. ATTENDANCE POLICY 5 percent of the finalgrade is dedicated to class participation and attendance. Attendancesheets will be collected at everyclass and lab session. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) A studentneeds to attend the classregularly in order to passthis course. A student will be considered as missed the class, even if the student did not attend a class due to a medical condition. If the instructor notes, that you were not participating in the class (not answering questions, usinglabcomputer for surfing web, etc…), the aboveattendance policywill not be executed and yourattendance gradewill be lower. The classinstructor can deny a student's right to take the finalexam in case of the student's poor attendance in class (less than 80% and Current Course Gradeblow \"C\"). MEDICAL CONDITION POLICY If you miss a quiz, labsession or homework assignment deadline due to a medical condition, you will not be ableretake or resubmit them. The quiz, labsession or homework assignmentwith the lowest grade will be dropped (only due to a medical condition). If you miss the midtermexam due to a medicalcondition and provethis medicalcondition with a note from the doctor (school approvedmedical center), yourfinal examgradewill be counted for the midterm exam. 15. E-Learning This course is not delivered via digital or online media. 16. Approval and review Date of Approval: Minutes #: Committee: Date(s) of Approved Change: Minutes #: Committee:",
+        "rank": 3,
+        "score": 0.3996
+      }
+    ],
+    "id": "q06",
+    "expected_course": "ROBT 204",
+    "retrieved_courses": [
+      "ROBT 204",
+      "ROBT 204",
+      "ROBT 204"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What prerequisites are listed for CSCI 332?",
+    "top_k": 3,
+    "course_filter": "CSCI 332",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The prerequisite for CSCI 332 is CSCI 231 with a grade of D or above.",
+    "baseline_answer": "Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.\n\n[Gemini generation failed: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 33.432472665s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}]",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "CSCI_332_chunk_001",
+        "course_code": "CSCI 332",
+        "source_file": "CSCI 332_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 5,
+        "token_count": 400,
+        "text": "COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION A: DEFINITIVE 1. General course information 1.1 School: SEDS 1.6 Credits (ECTS): 6 1.2 Course Title: Operating Systems 1.7 Course Code: CSCI 332 1.3 Pre-requisites: CSCI 231, D or above Effective from: 1.8 1.4 Co-requisites: none Fall 2018 Computer Science 1.5 ☒ Core ☐ Elective Programs: UG (in which the course is offered) 2. Course description (max.150 words) The courseintroduces students to Operating Systems, theirconcepts and building blocks. The students will learn to understand, apply, and extendthese conceptsthrough a focus on systems programming in the UNIX environment. Theywill be introduced to the maincomponents of moderncomputer operating systems: resource allocation, process scheduling, memory management, file systems, management of input and output devices, and synchronization. 3. Summative assessment methods (tick if applicable): 3.1 Examination ☒ 3.5 Presentation ☐ 3.2 Termpaper ☐ 3.6 Peer-assessment ☐ 3.3 Project ☐ 3.7 Essay ☐ 3.4 Laboratory Practicum ☒ 3.8 Other (specify) ____________ (Assignments) 4. Course aims The aims of the course are: 1) To introduce students to the basicsconcepts of the design of operating systems 2) To familiarize students with systems-level software development techniques 5. Course learning outcomes (CLOs) 5.1 After taking and successfully passingthis course, the students will be able to 1) Use a UNIXoperating system as a user and as a developer 2) Use one of the commonshells (e. g. bash, csh) on the commandline and in simple scripts 3) Read, understand and explaincomplex C code 4) Understand and use UNIXsystems calls, in particularthose for file I/O, process and thread management, inter-process communications 5) Design and develop systems-level C programs of somesignificant complexity, for example: o Serverswhich can handlemultiple simultaneous clients COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) o Programswhich are composed of multiple cooperating processes 6) Understand and use process and thread synchronization techniques 7) Understandbasic operatingsystems concepts: synchronization, process scheduling, memory management, filesystems and resource allocation 5.2 CLO ref # Program Learning Outcome(s) to which CLO is linked 1 - 7 1, 2, 6 Program Learning Outcomes (PLOs) - ABETStudent Outcomes for CS Programs Upon the completion of the BSc in Computer Science program, students should be able to: PLO 1: Analyze a complexcomputing problem and to applyprinciples of computing and other relevant disciplines to identify solutions. PLO 2: Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of",
+        "rank": 1,
+        "score": 0.4857
+      },
+      {
+        "chunk_id": "CSCI_332_chunk_004",
+        "course_code": "CSCI 332",
+        "source_file": "CSCI 332_processed.txt",
+        "chunk_index": 3,
+        "total_chunks": 5,
+        "token_count": 400,
+        "text": "programming, Advanced Programming in the UNIXEnvironment by Stevens 13 Course expectations Class Structure The classmeets for 2 lectures and 1 labsession per week. The labwill featureexercises that illustrate the concepts and techniques covered in the lectures. Attendance at classsessions is compulsory. Students who missassignments or exams for medical reasons are required to submit a doctor's note and makeindividual arrangements for make-ups, if possible. Arrangements for make-ups for othertypes of emergencies or conflictsshould be discussed with the instructor as early as possible. Pleaserefer to the new attendancepolicy at the Registrar's site for more details. Lab exercises are designed to helpstudents practice the currentmaterial and may be done and COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) submitted in pairs or larger groups, depending on the assignment. Discussionwith classmates, the instructors and the TAs is encouragedduring these exercises. Homework assignments and projects are individual work. Quizzes and tests/exams are alwaysindividual work. Materials will be disseminated to the studentsusing moodle (moodle. nu. edu. kz), and most assignments will be submittedusing moodle. Announcements will be posted on moodle. Student Behavior Students are expected to maintain respectful decorum in the classroom and laboratories, and in all interactions withfellow classmates, Teaching Assistants, Research Assistants and NUfaculty and staff. Class time is short, and valuable, and thusshould be used effectively; students are expected to refrain from suchdistractions as texting, phone calls, on-line chats, personalweb browsing, the use of social networking sites, and excessive chatting or greetingsduring class time. Students shouldcome to class well-prepared, havingcompleted the background reading and related assignments, and possessingproper resources for the classmeeting (books, paper, writing implements, computers, etc.), as needed. 14 Academic Integrity Statement Nazarbayev University and The School of Science and Technologyhave establishedhigh standards for academic integrity, using an approach in whichstudents are trained to produce original work according to professional standards, and to properlycite and reference the work of otherswhen it is appropriate to do so. The specific guidelines are published in the NUStudent Handbook. In particular, 1. The assignments in thisclass are designed to introduce important concepts and techniques, and enable you to explore the material independently so as to gaininsight and comprehension of the subject. Doing the work is muchmore importantthan getting the right answer. ● The course is designed such that the new material presentedeach lessonbuilds on the skills developed in the preceding days; thus, any actionthat interferes with thisprocess (e. g., skipping lesson exercises, copying)",
+        "rank": 2,
+        "score": 0.3804
+      },
+      {
+        "chunk_id": "CSCI_332_chunk_002",
+        "course_code": "CSCI 332",
+        "source_file": "CSCI 332_processed.txt",
+        "chunk_index": 1,
+        "total_chunks": 5,
+        "token_count": 400,
+        "text": "the BSc in Computer Science program, students should be able to: PLO 1: Analyze a complexcomputing problem and to applyprinciples of computing and other relevant disciplines to identify solutions. PLO 2: Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline. PLO 3: Communicate effectively in a variety of professional contexts. PLO 4: Recognize professional responsibilities and makeinformed judgments in computing practice based on legal and ethical principles. PLO 5: Function effectively as a member or leader of a teamengaged in activities appropriate to the program's discipline. PLO 6: Applycomputer sciencetheory and software development fundamentals to produce computing-based solutions. Mapping of the eight NUgraduate attributes to the Program Learning Outcomes (PLOs) NU Graduate Attributes Program Learning Outcomes 1 2 3 4 5 6 1. Possess an in-depth and sophisticated understanding of their domain X X X of study. 2. Be intellectually agile, curious, creative and open-minded X X X 3. Be thoughtful decisionmakers who know how to involveothers X X X 4. Be entrepreneurial, self-propelling and able to create new X X X X opportunities. 5. Be fluent and nuanced communicator acrosslanguages and cultures X X 6. Be cultured and tolerantcitizen of the world X X 7. Demonstrate personal integrity X 8. Be prepared to take a leadingrole in the development of theircountry X X X X COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION B: NON-DEFINITIVE Course Syllabus Details of teaching, learning and assessment 6. Detailed course information 6. Academic Year: 2025-26 6.3 Schedule (class days, time): 1 Lecture Section 1, 3 - M. W. F 14.00 - 14:50 Lecture Section 2 - M. W. F 15.00 - 15:50 6. Semester: Spring 2026 6.4 7E429 7. Course leader and teaching staff Position Name Office Contact information Office # hours Course Leader(s) Dimitrios Zormpas 7e441 dimitrios.zorbas@nu.edu.kz Decided Jurn Gyu Park 7e443 jurn.park@nu.edu.kz by email Zohaib Latif 7e433 latif.zohaib@nu.edu.kz Course Instructor(s) Teaching Assistant(s) TBA 8. Course Outline Session Date Topics and Assignments Course Aims CLOs (ref. # only, see item 4) Week 1 12/1-18/1 2 1-7 Introduction, OS Overview Week 2 19/1-25/1 1, 2 1-7 Processes Week 3 26/1-1/2 1, 2 1-7 Threads Week 4 2/2-8/2 1, 2 1-7 Synchronization I: Mutex Week 5 9/2-15/2 1, 2 1-7 Synchronization II: Semaphore Week 6 16/2-22/2 1, 2",
+        "rank": 3,
+        "score": 0.3675
+      }
+    ],
+    "id": "q07",
+    "expected_course": "CSCI 332",
+    "retrieved_courses": [
+      "CSCI 332",
+      "CSCI 332",
+      "CSCI 332"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What assignments are required in TUR 100?",
+    "top_k": 3,
+    "course_filter": "TUR 100",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "API key not configured, so this is an extractive fallback from the retrieved syllabus context: the last day of class (April 24) for full credit. I usuallygrade papers 30% for data, 30% for framework, 30% for argument, and 10% for \"pizzazz\" (meaning you can try to impress me with the brilliance of your thought). Grading scale A 95-100 Excellent, exceeds the highest standards in the assignment or course A- 90-94.9 Excellent; meets the highest standards for the assignment or course B+ 85-89.9 Very good; meetshigh standards for the assignment or course B 80-84.9 Good; meetsmost of the standards for the assignment or course B- 75-79.9 Morethan adequate; showssome reasonable command of the material C+ 70-74.9 Acceptable; meetsbasic standards for the assignment or course C 65-69.9 Acceptable; meetssome of the basicstandards for the assignment or course C- 60-64.9 Acceptable, whilefalling short of meetingbasic standards in several ways D+ 55-59.9 Minimally acceptable D 50-54.9 Minimally a\n\n[Gemini generation failed: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 7.71651141s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}]",
+    "baseline_answer": "Baseline mode has no retrieval context. Configure GEMINI_API_KEY or OPENAI_API_KEY to generate a true LLM baseline answer.\n\n[Gemini generation failed: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 7.273710898s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}]",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "TUR_100_chunk_003",
+        "course_code": "TUR 100",
+        "source_file": "TUR 100_processed.txt",
+        "chunk_index": 2,
+        "total_chunks": 9,
+        "token_count": 400,
+        "text": "the last day of class (April 24) for full credit. I usuallygrade papers 30% for data, 30% for framework, 30% for argument, and 10% for \"pizzazz\" (meaning you can try to impress me with the brilliance of your thought). Grading scale A 95-100 Excellent, exceeds the highest standards in the assignment or course A- 90-94.9 Excellent; meets the highest standards for the assignment or course B+ 85-89.9 Very good; meetshigh standards for the assignment or course B 80-84.9 Good; meetsmost of the standards for the assignment or course B- 75-79.9 Morethan adequate; showssome reasonable command of the material C+ 70-74.9 Acceptable; meetsbasic standards for the assignment or course C 65-69.9 Acceptable; meetssome of the basicstandards for the assignment or course C- 60-64.9 Acceptable, whilefalling short of meetingbasic standards in several ways D+ 55-59.9 Minimally acceptable D 50-54.9 Minimally acceptable; lowest passing F 0-49.9 Did not satisfy the basic requirements of the course Class policies ● You shouldfollow all instructions specified in the syllabus. ● All assignments should be submitted on Moodleunless otherwise specified. ● All written assignmentsmust use Times New Roman font, size 12, 1,5 spaced. Margins must be 1 inch. All citations, as well as the bibliography, mustfollow one style, which you may choose. ● Lateassignments will receive credit reductions. Assignments turned in after the latedate will receive no credit. ● There will be no make-ups for in-class assignments. ● There will be no extracredit offered for this class. ● Plagiarismwill not be tolerated, including self-plagiarism (submitting the same assignment to multiple courses/professors). AIassistance to improvegrammar and wordchoice is accepted and must be indicated. The use of AI to generatecontent is not permitted. Any plagiarism willresult in an automaticzero for the assignment and will be reported to the Dean to be placed on yourpermanent record. Violationscould result in an F for the course. ● Cheatingwill not be tolerated. Any behavior that evenhints of cheating will be reported to the School disciplinary committee and willresult in an automatic F for the assignment and/or course. ● Officehours are Monday and Wednesdaybetween 14:00 and 15:00. If you need to meet with me, pleasesend me an email, and I will be glad to makearrangements with you. ● I reserve the right to makechanges to the syllabus as needed, includingadding and subtracting assignments and changing due dates. I willnotify you in class or via email about changes (this means you are responsible for checkingyour",
+        "rank": 1,
+        "score": 0.4942
+      },
+      {
+        "chunk_id": "TUR_100_chunk_002",
+        "course_code": "TUR 100",
+        "source_file": "TUR 100_processed.txt",
+        "chunk_index": 1,
+        "total_chunks": 9,
+        "token_count": 400,
+        "text": "1 or a maximum of 2 quotationsfrom the readings (1-3 sentences maximum). Do not include the quotation in yourword count! Yourdiscussion may focus on these 1-2 quotations. Hopefully, it will engagewith otherinformation or arguments discussed in the week's videos and readings. Basic Criteria for full credit: 1) Must be made on time - posted on Sunday by 11:55 pm. 2) Must be roughly 250 words in length. 3) Mustengage meaningfullywith the assigned readings. For further information on APA Style, see: ** Please note: poststhat do not meet the basiccriteria of word length, citation, and cogent discussion will not be counted. ** Please note: latepostswill not be accepted. 2. Exams (40%): There will be one midterm (multiple choice+essay) 20% and one finalexam 20% (finals period). 3. Quizzes (20%): There will be weeklyquizzes on the readings of the previous week. 4. Finalproject (25%): A researchpaper on a predetermined topic (or anothertopic to be determined in consultation with the instructor), whichmust be 5 pages (minimum 2000 words) + 1 page for bibliography/notes (not included in the pagecount for the body of the paper). The paper specifications are Times Roman, 12-point, 1.5 line spacing. The papermust be submittedthrough Moodle. Summary: 15% Weekly posts 40% Midterm 20% + Final 20%. 25% 5 pagepaper (2000 words + bibliography/notes) 20% Quizzes 100% TOTAL Final project. A researchpaper on a predetermined topic (or anothertopic to be determined in consultation with the instructor), whichmust be 5 pages (minimum 2000 words) + 1 page for bibliography/notes (not included in the pagecount for the body of the paper). The paper specifications are Times Roman, 12-point, 1.5 line spacing. I askthat you use at least 4 (four) sources, at least 2 (two) of which are fromoutside the class readings. The papermust be submittedthrough Moodle \"Turn It In\". I will try to provide a list of suggested topics. I encourage you to choose any topicthat interests you. I will set up a Google Form for you to submit a papertopic by the end of Week 10. (Feel free to contact me if you havequestions aboutwhether a topic is appropriate.) The due datewill be the last day of class (April 24) for full credit. I usuallygrade papers 30% for data, 30% for framework, 30% for argument, and 10% for \"pizzazz\" (meaning you can try to impress me with the brilliance of your thought). Grading scale A 95-100 Excellent, exceeds the highest standards in the",
+        "rank": 2,
+        "score": 0.3353
+      },
+      {
+        "chunk_id": "TUR_100_chunk_001",
+        "course_code": "TUR 100",
+        "source_file": "TUR 100_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 9,
+        "token_count": 400,
+        "text": "TUR 100 - Languages, Cultures, and Communities of the Turkic World (Spring 2026) Time & Room: Monday, Wednesday & Friday 8.105 10:00 - 10:50 AM Instructor: Halit Akarca (Kazakh Language and Turkic Studies) Office: Block 7, 250 Office Hours: Monday 14:00 - 15:00 Description This courseoffers an introduction to languages, cultures, and communities of the Turkic World, including continuities and changes in them. It introduces the peoples, language, cultures, and social as well as politicalforms of organization across the centuries. This course engages a range of scholarly publications and selectedprimary sources in English translation to highlight historical periods, topics, peoples, and regions. The readings are complemented by audio-visual sources and student activitiesaround these topics. Requirements Participation and priorpreparation of the assignedreadings are required. Learning Objectives ● Understand the objectives of Turkic Studies and the diversitywithin the Turkic World ● Understand continuities and changes in Turkic communities ● Getting acquaintedwith importantsources on the Turkic World ● Applykeytheories to Turkic Studies ● Developknowledge on the mainareas of research in the Turkic World ● Develop the ability to criticallyassess sources Learning Outcomes ● Demonstrate acquaintancewith the objectives of Turkic Studies and the diversitywithin the Turkic World ● Demonstrate acquaintancewith continuities and changes in Turkic communities ● Demonstrate knowledge of the mainareas of research in the Turkic World ● Analyzeimportant sources on the Turkic World and analyzecultural production critically ● Ability to applykey theoriesto Turkic Studies ● Improveresearch skillsthrough writing and presentation formats (writing assignments, presentations) Assessment 1. Weekly Discussion Posts (15%): Each Sunday you will be responsible for entering a 250-word post on a discussionforum in Moodle (by 11:55pm). In theseposts you mustreflect on the assignedreading for the preceding week (beginning with the backgroundvideos and readings for Week 2) and reflect on it. Write your thoughts about the assigned readings. Don't just summarize; criticallyengage with the readings. Make sure you cite the passageunder discussion. The purpose of thisassignment is to ensure that you are keeping up with the reading and reflecting on it. [The readings for Week 1 will be the subject of a quizduring the beginning of Week 2.] Recommended format: Choose 1 or a maximum of 2 quotationsfrom the readings (1-3 sentences maximum). Do not include the quotation in yourword count! Yourdiscussion may focus on these 1-2 quotations. Hopefully, it will engagewith otherinformation or arguments discussed in the week's videos and readings. Basic Criteria for full credit: 1) Must be made",
+        "rank": 3,
+        "score": 0.3179
+      }
+    ],
+    "id": "q08",
+    "expected_course": "TUR 100",
+    "retrieved_courses": [
+      "TUR 100",
+      "TUR 100",
+      "TUR 100"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  }
+]

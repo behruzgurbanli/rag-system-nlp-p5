@@ -1,0 +1,32 @@
+[
+  {
+    "id": "h01",
+    "question": "Who teaches comparative politics?",
+    "expected_course": "PLS 140"
+  },
+  {
+    "id": "h02",
+    "question": "Which course uses Elementary Differential Equations by Boyce and DiPrima?",
+    "expected_course": "MATH 274"
+  },
+  {
+    "id": "h03",
+    "question": "Where can I find the official grading scale for the anthropology introduction class?",
+    "expected_course": "ANT 101"
+  },
+  {
+    "id": "h04",
+    "question": "Which syllabus mentions operating systems prerequisites?",
+    "expected_course": "CSCI 332"
+  },
+  {
+    "id": "h05",
+    "question": "Which class has quizzes, homeworks, midterms, and a final exam in general chemistry?",
+    "expected_course": "CHEM 101"
+  },
+  {
+    "id": "h06",
+    "question": "What course discusses electrical and electronics circuits with laboratory?",
+    "expected_course": "ROBT 204"
+  }
+]

@@ -1,0 +1,48 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets / local environment files
+.env
+.env.*
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# User-provided instructions and legacy teammate folder
+Project Instructions.txt
+cleaned_syllabi/
+
+# Presentation artifacts
+slides/
+
+# Local study guides / private prep notes
+report/project_understanding_guide.txt
+report/presentation_speech_guide.txt
+
+# Generated data pipeline artifacts
+data/raw_pdfs/
+data/cleaned/
+data/processed/
+data/chunks/
+data/vector_store/

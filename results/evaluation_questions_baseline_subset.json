@@ -1,0 +1,17 @@
+[
+  {
+    "id": "b01",
+    "question": "What is the grading policy for ANT 101?",
+    "expected_course": "ANT 101"
+  },
+  {
+    "id": "b02",
+    "question": "What are the assessment components for CHEM 101?",
+    "expected_course": "CHEM 101"
+  },
+  {
+    "id": "b03",
+    "question": "Who teaches MATH 302 and what are the office hours?",
+    "expected_course": "MATH 302"
+  }
+]

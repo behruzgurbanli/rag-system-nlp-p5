@@ -1,0 +1,140 @@
+[
+  {
+    "question": "What is the grading policy for ANT 101?",
+    "top_k": 3,
+    "course_filter": "ANT 101",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The grading policy for ANT 101 is as follows:\n\n*   Attendance and Participation: 10%\n*   In-Class Exercises: 15%\n*   First Exam: 20%\n*   Second Exam: 20%\n*   Final Exam: 30%\n\nThe total for all components is 100%. Grades and feedback will be provided within 10-12 days of submission.",
+    "baseline_answer": "I cannot tell you the exact grading policy for ANT 101 without seeing the specific course syllabus. Grading policies, including the breakdown of assignments, their weight, and any extra credit opportunities, are unique to each instructor and course offering.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "ANT_101_chunk_005",
+        "course_code": "ANT 101",
+        "source_file": "ANT 101_processed.txt",
+        "chunk_index": 4,
+        "total_chunks": 8,
+        "token_count": 400,
+        "text": "but students are welcome to review them during office hours. Exam rooms or halls will be announced as soon as I know them. Grading and Feedback ANT 101: Being Human: An Introduction to Four Field Anthropology I will try my hardest to provide grades and feedback within 10-12 days of submission. It is your responsibility as a student to keep track of your own grades and attendance throughout the term (they will be available on Moodle, so there is no reason not to!). In the event that you wish to view your exams, discuss your overall grade or progress in the course, or grades received on a specific assignment, please email me to set up a meeting or stop by office hours. I will not discuss or change grades before, during, or after class meetings. ANT 101: Being Human: An Introduction to Four Field Anthropology Official NU Grading Scale: A 95-%100% Excellent, exceeds the highest standards in the assignment or course A- 90%-94.9% Excellent; meets the highest standards for the assignment or course B+ 85%-89.9% Very good; meets high standards for the assignment or course B 80%-84.9% Good; meets most of the standards for the assignment or course B- 75%-79.9% More than adequate; shows some reasonable command of the material C+ 70%-74.9% Acceptable; meets basic standards for the assignment or course C 65%-69.9% Acceptable; meets some of the basic standards for the assignment or course C- 60%-64.9% Acceptable, while falling short of meeting basic standards in several ways D+ 55%-59.9% Minimally acceptable D 50%-54.9% Minimally acceptable; lowest passing F 0%-49.9% Did not satisfy the basic requirements of the course Attendance Policy You are permitted three absences for the semester to accommodate your needs before a penalty is applied, unless you have an officialmedical absence note/spravka. If you miss class, it is your responsibility to get missed materialsfrom fellow students. Each additional absence beyond the first three drops your grade by one half letter. This means that you may miss three ordinary class sessions with no excuses. However, if you miss a fourth class without an excuse, you may have achieved a B, but you will be assigned a final grade of B-. Consider if it is worth skipping class. It is your responsibility to attend regularly, review your attendance/absences in Moodle and ensure your scores are marked correctly. Lastly, if something is not going well for you or troubling you,",
+        "rank": 1,
+        "score": 0.6975
+      },
+      {
+        "chunk_id": "ANT_101_chunk_008",
+        "course_code": "ANT 101",
+        "source_file": "ANT 101_processed.txt",
+        "chunk_index": 7,
+        "total_chunks": 8,
+        "token_count": 367,
+        "text": "for additional assignments to bump up grades will be denied. Individual and collective requests to round up grades at the end of the semester, for whatever reason, will be denied. It is unfair to your classmates who have attended regularly, met deadlines, or did the work as expected. ANT 101: Being Human: An Introduction to Four Field Anthropology Wk Date Theme Readings (** = see Moodle for additional readings) 1 13-Jan Welcome to the Class! What is Anthropology? EEP, pp. 1-16 15-Jan 2 19-Jan How do we do Anthropology? EEP, pp. 17-43 21-Jan (COURSE DROP DEADLINE) Supplementary readingsabout UI bio-anthropologist and Princeton 22-Jan archaeological team in Greece 23-Jan (COURSE ADD DEADLINE) 3 27-Jan Core Concepts Revisited 29-Jan What Makes Humans Different? Genetics and EEP, pp. 44-84 Evolution 4 3-Feb Adaptation and Mechanisms of Change EEP, pp. 85-122 (Guest Lecture by Dr. Reed Coil) 5-Feb EEP, pp. 123-161 5 10-Feb 10 Feb. - FIRST EXAM Communication and Language EEP, p. 285-315 12-Feb (Guest Lecture by Dr. U. Kim) 6 17-Feb World Views EEP, pp. 489-537 19-Feb (Guest Lecture by Dr. K. Erdman) 7 24-Feb Subsistence EEP, pp. 180-203 and 316-336 26-Feb 8 3-March NO CLASSES - Spring BREAK 5March 9 10- Continuation of Economic Topics in ANTH EEP, pp. 337-390 and Please read supplementary article March (COURSE WITHDRAWAL DEADLINE) formonline journal Sapiens by David Graebner on \"Bullshit\" 11- Jobs. March 12March 10 17-Mar 17 MAR. - SECOND EXAM Sex, Gender, Finding Mates-Family, Kinship and EEP, pp. 392-470 19-Mar Marriage 11 24-Mar 26-Mar No Classes--Nauryz 12 31-MAR Social Order and Power EEP, pp. 369-391 and 489-514 2-April 13 7-April Globalization and Medical Anthropology EEP, pp. 557-590 9-April 14 14-April The Future of Anthropology and Global Problems EEP, pp. 591-610 16-April (Guest Lecture: Dr. P. Schroeder) 15 21- REVIEWReview Readings, Notes and Power Points April Last Week 23-April ANT 101: Being Human: An Introduction to Four Field Anthropology FINAL Exam/Exam 3-To Be Announced *The instructor reserves the right to change or modify the schedule as needed. Have no doubt that modifications willoccurduring the semester. All changeswill be communicated in class and updated on Moodle with as muchadvance notice as possible* ANT 101: Being Human: An Introduction to Four Field Anthropology",
+        "rank": 2,
+        "score": 0.4862
+      },
+      {
+        "chunk_id": "ANT_101_chunk_004",
+        "course_code": "ANT 101",
+        "source_file": "ANT 101_processed.txt",
+        "chunk_index": 3,
+        "total_chunks": 8,
+        "token_count": 400,
+        "text": "determined) 15% First Exam 20% Second Exam 20% Final Exam 30% Total 100% *Participation and attendance is given, not calculated. Everyone automatically received 100% of 10%. Therefore, you do not reallybenefit fromthis 10%, but it can be used negatively, especially in light of unexcused absences as per the attendance policy. Please be aware of this. Attendance and Participation (10%) - You are expected to attend and arrive to eachclass on time; timely attendance is essential to your success. During lectures, discussions, and in-class activities, you should be participating whenappropriate by asking questions and sharing your ideas with the classwhenasked or in groups. You must be physically present in the classroom and make sure you tell the GTAthat you are present. You are permittedfour absences for the semesterbefore a penalty is applied. (See Attendance Policy below for additional information about absence penalties). In-Class Exercises--Anthropological Approaches (15%) - Theseexercises will be givenrandomly a few times throughout the semester, allowing you to demonstrateyour beginning knowledge of the science. They will be very short, perhaps no more than two or three sentences. Therefore, please come to class with some note paper and pens as these will be handwritten in-class assignments. To be discussed in more detail during the firstweeks of class. Exams - There are three exams. The firstexam (20%) seeks to test your understanding of the foundational concepts in anthropologyfrom weeks 1 through 4. The secondexam (20%) will coverweeks 5 through 9 and focuses on some essential human needs; the finalexam (30%) will be cumulative, cover all weekswith a greater emphasis on materialsfrom weeks10 through 14, testing your knowledge of increasingly complex concepts within anthropology. The date for the finalexam will be announced as soon as it is known. The format of the exams willconsist in multiple-choice questions and answers-25 (for Exams 1 and 2) and 33 ( for Exam 3) questions. Makeup exams will always be in an essay format. Exams are closed book-the use of books, articles, and notes during exams is prohibited. Any and all electronic devicesmust be put away or handed in during exams. Exams will not be returned, but students are welcome to review them during office hours. Exam rooms or halls will be announced as soon as I know them. Grading and Feedback ANT 101: Being Human: An Introduction to Four Field Anthropology I will try my hardest to provide grades and feedback within 10-12 days of",
+        "rank": 3,
+        "score": 0.4508
+      }
+    ],
+    "id": "b01",
+    "expected_course": "ANT 101",
+    "retrieved_courses": [
+      "ANT 101",
+      "ANT 101",
+      "ANT 101"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "What are the assessment components for CHEM 101?",
+    "top_k": 3,
+    "course_filter": "CHEM 101",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "The assessment components for CHEM 101 include quizzes, problem sets, reports, homework, mid-term exams, and a final exam. There will be no dropping policy for any of these assessments, and scores will not be curved or normalized.",
+    "baseline_answer": "I cannot provide the exact assessment components for CHEM 101 without the specific course syllabus. Syllabi vary by instructor and institution.\n\nHowever, based on general knowledge of introductory chemistry courses, common assessment components often include:\n\n*   **Exams:** Midterm exams and a final exam are almost always present.\n*   **Quizzes:** Short quizzes, sometimes unannounced, to test understanding of recent material.\n*   **Homework/Problem Sets:** Assignments to practice problem-solving skills.\n*   **Lab Reports:** If CHEM 101 includes a lab component, lab reports are a significant part of the grade.\n*   **Participation:** Sometimes a small portion of the grade is allocated for in-class participation or clicker questions.\n\nTo know the precise assessment components and their weighting for a particular CHEM 101 course, you would need to consult that course's syllabus.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "CHEM_101_chunk_001",
+        "course_code": "CHEM 101",
+        "source_file": "CHEM 101_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION A: DEFINITIVE 1. General course information 1.1 School: Science and Technology 1.6 Credits (ECTS): 6 1.2 Course Title: General Chemistry I 1.7 Course Code: CHEM 101 Pre-requisites: none Effective from: 1.3 Anti-requisite: none 1.8 Fall 2018 1.4 Co-requisites: N/A Programs: 1.5 (in which the course Chemistry is Core Elective 2. Course description (max.150 words) CHEM 101 is the first of a two-semester General Chemistry lecture sequence, designed for all science students interested in chemistry-related fields. The course studies fundamentallaws and theories of chemistry and beginswith consideration of chemical fundamentalssuch as atomic theory, mole, stoichiometry and types of chemical reactions. Modernview of atom is considered next followed by concepts in chemicalbonding startingwith localizedbond theory and its use for prediction of molecular and electronic geometry of simple compounds. The course covers basics of chemical kineticswith examplesfrom enzymekinetics to demonstrate a universal applicability of chemical laws. Thermochemistry, chemical thermodynamics and phaseequilibria are also considered to establish a foundation for higherlevel chemistry and biology courses. 3. Summative assessment methods (tick if applicable): 3.1 Examination 3.5 Presentation 3.2 Termpaper 3.6 Peer-assessment 3.3 Project 3.7 Essay 3.4 Laboratory Practicum 3.8 Other (specify) 4. Course aims 1. Introduce and studybasic chemical terminology, chemicallaws and phenomena and link them to atomic theory. 2. Analyzedifferent models and concepts of atomicstructure and chemicalbonding and discuss their strengths and limitations 3. Characterize gases and solids and explain and predicttheir physicochemical properties using theoretical models 4. Introduce mathematical modelsdescribing chemicalkinetics and establish a link between reaction mechanisms and ratelaw expressions 5. Studyfundamental laws of thermodynamics and considertheir mostvital applications in thermochemistry, chemical equilibria and thermodynamics of ideal gases 6. Qualitatively describephase equilibria and colligative properties of solutions. Establish a link between the behavior of non-ideal solutions and theirchemical structure 5. Course learning outcomes (CLOs) 5.1 1. Classifychemical compounds and elementsbased on type of chemicalbonding and predict their physico-chemical propertiessuch as melting and boiling points. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) 2. Perform stoichiometric calculations to balancechemical equations and determine yield of reaction. 3. Applyvalence shellelectron pairrepulsion theory (VSEPR) to predictmolecular and electronic geometry of simple compounds. 4. Deriveratelaws for simple and complex mechanisms of chemical reactionsbased on a set of elementary reactions. 5. Solvesimple problems in chemical kinetics, for examplecalculate concentrations of reactants and productsusing integratedforms of rate laws. 6. Understand concepts of entropy, enthalpy and freeenergy",
+        "rank": 1,
+        "score": 0.6588
+      },
+      {
+        "chunk_id": "CHEM_101_chunk_002",
+        "course_code": "CHEM 101",
+        "source_file": "CHEM 101_processed.txt",
+        "chunk_index": 1,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "(VSEPR) to predictmolecular and electronic geometry of simple compounds. 4. Deriveratelaws for simple and complex mechanisms of chemical reactionsbased on a set of elementary reactions. 5. Solvesimple problems in chemical kinetics, for examplecalculate concentrations of reactants and productsusing integratedforms of rate laws. 6. Understand concepts of entropy, enthalpy and freeenergy and applythem to determine spontaneity of chemical reactions and theirpoint of equilibrium. 7. Applytheoretical models to explainphase behavior and colligative properties of solutions. 5.2 CLO Program Learning Outcome(s) to Graduate Attribute(s) to which ref # which CLO is linked CLO is linked 1-2 Identify problems, interpret Possess an in-depth and effectively the concepts, and express sophisticated understanding of their problem solving, adequate reading, domain of study. and scientific abilities Be intellectually agile, curious, Grasp the nature and effectively creative and open-minded. communicate the principles of chemistry. 3-7 Grasp the nature and effectively Possess an in-depth and communicate the principles of sophisticated understanding of their chemistry. domain of study. Develop systems to criticizetheir own Be intellectually agile, curious, thinking through categorizing and creative and open-minded. estimating complex scientific issues Be fluent and nuanced Create graphwith the given data, to communicators across languages formulate the research results, to and cultures. generate report, and to summarize the results orally or in other effective forms. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) SECTION B: NON-DEFINITIVE Course Syllabus Details of teaching, learning and assessment 6. Detailed course information 6.1 Academic Year: 2025-2026 6.3 Schedule (class days, time): Section 1L: Tue, Thu 13:30 - 14:45 PM 6.2 Semester: Spring 2026 6.4 Lecture Location (building, room): 7E.222 7. Course leader and teaching staff Position Name Office Contact information Office hours Tue, Thu Course Instructor(s) Amro Khalil 7E.532 khalil.amro@nu.edu.kz 3-4 pm Teaching Assistant(s) Yerbolat Yerzhanov TBA yerbolat.yerzhanov@nu.edu.kz TBA 8. Course Outline Week Week of Topics and Assignments Course CLOs (tentative) Aims January 12 Lecture 1: Introduction to the course, fundamental laws Chapter 2 (Zumdahl) 1 Lecture 2: Electronegativity and types of compounds 2,3 1,2 Chapter 8 (Zumdahl) Homework 1 (Lecture 1-2), Moodle January 19 Lecture 3: Naming of compounds, stoichiometry Chapter 3 (Zumdahl) 2 1,2,3 1,2 Lecture 4: Types of chemical reactions and their balancing Chapter 3 (Zumdahl) January 26 Lecture 5: Quantummechanics and Bohr's atom Chapter 7 (Zumdahl) 3 Lecture 6: Wavefunctions and atomicorbitals 2,3,5 1,2,3 Chapter 7 (Zumdahl) Homework 2 (Lectures 2-5), Moodle February 2 Lecture 7: Polyelectronic atoms Chapter 7 (Zumdahl) 4",
+        "rank": 2,
+        "score": 0.5724
+      },
+      {
+        "chunk_id": "CHEM_101_chunk_005",
+        "course_code": "CHEM 101",
+        "source_file": "CHEM 101_processed.txt",
+        "chunk_index": 4,
+        "total_chunks": 7,
+        "token_count": 400,
+        "text": "S. Zumdahl, D. J. De Coste. Chemical Principles. 7th edition (International edition). Brooks/Cole Cengage Learning. 2013. ISBN 978-1-11-198900-2 COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39) 13. Course expectations  There will be NO DROPPINGpolicy for all quizzes, problem sets, reports, and exams. All scores will be calculatedbased on the actualpercentage and will NEITHER BE CURVED NOR NORMALIZED.  You onlyhave ONE WEEK to contest your score/grade after it has beenposted in Moodle. After that, no more score/grade revisions are permitted.  There will be NO makeup for quizzes and homework. If no medical certificate is presented, the grade will be zero, if medical certificate is provided, the grade will be an average of all other tests. In case of missed mid-term and final exams, student's knowledgewill be assessed via a meetingwith all instructors of the courseregardless of the reason for missed exam. Assignment/Homework/Reports Submission and Late Policy Homework will be assigned and conductedonline via Moodle platform. Assignmentsmust be submitted by the announced due date and timedigitally to Moodle. It is each student's responsibility to check the due dates of eachassignment in a timely manner. Quizzes, Mid-terms, and the Finalexam will be conducted in-person in a form of a written test. In general, there is no late policy; if you submit an assignmentafter it is due, you get zeropoints for your assignment. In cases of illness or family emergency, you mustinform your instructor immediately if you believe you will not be able to submit your assignment on time. In such cases, an exception may be made at the discretion of your instructor. Attendance and Tardiness  Students are expected to attend to every lectures of thisclass following the regulations of the university. COURSE SPECIFICATION FORM, approved by the Academic Council 17.06.2015 (#39)  Attendance will be recorded on Moodle, so you may check your currentnumber of absences at any time.  If you are absent for three (3) consecutive sessions or in totalfive (5) sessions for the semester without any valid reason, you may be given \"F\" as your final graderegardless of your current standing in the course.  You are expected to be in class, on time, ready to workeach day. If you are tardy for three (3) times it would be equivalent to one (1) absence. Electronic Resources You are expected to regularlycheck your Nazarbayev Universityemail for updates and announcements about the course. You are alsorequired",
+        "rank": 3,
+        "score": 0.4416
+      }
+    ],
+    "id": "b02",
+    "expected_course": "CHEM 101",
+    "retrieved_courses": [
+      "CHEM 101",
+      "CHEM 101",
+      "CHEM 101"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  },
+  {
+    "question": "Who teaches MATH 302 and what are the office hours?",
+    "top_k": 3,
+    "course_filter": "MATH 302",
+    "provider": "gemini",
+    "baseline_provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "rag_answer": "Eunghyun Lee teaches MATH 302. Office hours are Tuesday & Thursday from 13:00-14:00 or by appointment.",
+    "baseline_answer": "I cannot tell you who teaches MATH 302 or what the office hours are without the specific course syllabus. This information varies by semester and instructor.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "MATH_302_chunk_001",
+        "course_code": "MATH 302",
+        "source_file": "MATH 302_processed.txt",
+        "chunk_index": 0,
+        "total_chunks": 1,
+        "token_count": 486,
+        "text": "MATH 302 Abstract Algebra I - Spring 2026 Instructor: Eunghyun Lee Email: eunghyun.lee@nu.edu.kz Office: 7.213 Office Hours: Tuesday & Thursday 13:00-14:00 or by appointment Prerequisites MATH 273, MATH 251 Course Description This course is an introduction to abstractalgebra with an emphasis on rigorous definitions, logical reasoning, and proof writing. Topicsinclude groups and subgroups, cosets and normal subgroups, homomorphisms and isomorphism theorems, rings and ideals, integral domains, and fields. The course aims to develop students' mathematical maturity and problem-solving skills. Textbook John B. Fraleigh, A First Course in Abstract Algebra, 7th edition. Evaluation  Homework (almost weekly)  Quizzes (almost every lecture day)  Midterm I: February 13  Midterm II: March 27  Final Exam: TBA Grading Scheme The finalcourse grade is computedusing two methods, and the higher of the two will be recorded. Option 1 Quiz 5% + Homework 5% + Largest of (Midterm I, Midterm II, Final) 40% + Second largest 40% + Smallest 10% Option 2 Quiz 10% + Homework 10% + Max(Midterm I, Midterm II) 40% + Final Exam 40% Final course total = max(Option 1, Option 2). Policies Exam: There are no make-up examsunder any circumstances, including medical reasons. Homework: Homework assignments will be posted on Moodle. Solutionsshould be written on blank paper, scanned, and submitted as a single PDF file.  Homework is graded on submission, not correctness.  On-time submission receivesfull credit; latesubmission receiveszero credit.  The two lowesthomework scores will be dropped.  Any homeworkthat violates the submission instructions or is not genuinewill not be accepted. Quizzes: Quizzes are intended to help you self-check your understanding.  Format: True/False or shortconceptual questions  Administered on Moodleaftereach lecture  The fivelowest quizscores will be dropped  Deadline: 17:00 on the nextlecture day Attendance: Students are expected to attend all lectures. Warning Grades are never negotiable. Requests for gradechanges for personal reasons (graduation, stipend, probation, etc.) will be rejected. Any academic dishonesty on exams will be handledwithzero tolerance. Tentative Course Schedule (The schedule and topicsbelow may changewithout prior notice.) Session Date Topics Sections Week 1 Jan 12, 14, 16 Orientation; Groups 1-3 and Subgroups Week 2 Jan 19, 21, 23 Groups and 4-5 Subgroups Week 3 Jan 26, 28, 30 Groups and 6-7 Subgroups Week 4 Feb 2, 4, 6 Permutations; 8-9 Cosets; Direct Products Week 5 Feb 9, 11, 13 Permutations; 10 Cosets; Direct Products; Midterm Week 6 Feb 16, 18, Direct Products; 11-12 20 Applications Week 7 Feb 23, 25, Homomorphisms 13-14 27 and Factor Groups Week 8 Mar 11, 13 Isomorphism 15-16 Theorems Week 9 Mar 16, 18, Groups Review; 17-18 20 Introduction to Rings Week 10 Mar 27 Midterm IIWeek 11 Mar 30; Apr 1, Rings and Fields 20-21 Week 12 Apr 6, 8, 10 Ideals and Factor 22-23 Rings Week 13 Apr 13, 15, 17 Integral Domains 24-25 and Fields Session Date Topics Sections Week 14 Apr 20, 22, 24 Review and Final Exam Preparation",
+        "rank": 1,
+        "score": 0.4712
+      }
+    ],
+    "id": "b03",
+    "expected_course": "MATH 302",
+    "retrieved_courses": [
+      "MATH 302"
+    ],
+    "top1_course_correct": true,
+    "expected_course_in_top_k": true
+  }
+]

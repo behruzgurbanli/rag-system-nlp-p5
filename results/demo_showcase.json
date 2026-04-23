@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ANT 101 grading policy",
+    "source_file": "results/evaluation_results_gemini_rag_only.json",
+    "result_id": "q01",
+    "why_it_is_good": "Shows a detailed grounded answer with grading weights and the official grading scale."
+  },
+  {
+    "title": "MATH 274 textbook and learning resources",
+    "source_file": "results/evaluation_results_gemini_rag_only.json",
+    "result_id": "q03",
+    "why_it_is_good": "Shows textbook extraction plus online learning resources from the syllabus."
+  },
+  {
+    "title": "WCS 150 attendance policy",
+    "source_file": "results/evaluation_results_gemini_rag_only.json",
+    "result_id": "q04",
+    "why_it_is_good": "Shows that the system can answer policy questions with specific rules and penalties."
+  },
+  {
+    "title": "PLS 140 instructor lookup",
+    "source_file": "results/evaluation_results_gemini_rag_only.json",
+    "result_id": "q05",
+    "why_it_is_good": "Shows a short factual question answered cleanly from the syllabus."
+  },
+  {
+    "title": "MATH 302 baseline comparison",
+    "source_file": "results/evaluation_results_baseline_subset.json",
+    "result_id": "b03",
+    "why_it_is_good": "Shows a strong side-by-side comparison where RAG gives exact instructor and office hours while the baseline cannot verify them."
+  }
+]
