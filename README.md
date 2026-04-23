@@ -77,10 +77,7 @@ The generated summary is stored in `data/chunks/chunking_summary.json`.
 
 ## Reproduce Part 2
 
-Use the `nlp-p4` conda environment:
-
 ```bash
-conda activate nlp-p4
 python -m src.rag.vector_store
 python -m src.rag.pipeline "What is the grading policy for ANT 101?" --provider gemini --top-k 3
 python -m src.rag.evaluate --provider gemini --top-k 3
@@ -112,7 +109,6 @@ python -m src.rag.evaluate \
 Run the UI:
 
 ```bash
-conda activate nlp-p4
 streamlit run app/streamlit_app.py
 ```
 
